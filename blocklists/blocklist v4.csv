@@ -1,0 +1,1146 @@
+ID,Items,Stackability,Survival Obtainable,Peaceful Obtainable,Hunger,Saturation,Effect When Eaten,Is Weapon,Attack Speed,Attack Damage,Damage Per Second,Breaking Speed,Cooldown (in seconds),XP From Smelting,Obtainable By Smelting,Smeltable,Fuel Duration,Renewable
+stone,Stone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,With Furnace Only,With Furnace Only,None,Yes
+granite,Granite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_granite,Polished Granite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diorite,Diorite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_diorite,Polished Diorite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+andesite,Andesite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_andesite,Polished Andesite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+deepslate,Deepslate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,No
+cobbled_deepslate,Cobbled Deepslate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,No
+polished_deepslate,Polished Deepslate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+calcite,Calcite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tuff,Tuff,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dripstone_block,Dripstone Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+grass_block,Grass Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dirt,Dirt,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+coarse_dirt,Coarse Dirt,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+podzol,Podzol,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+rooted_dirt,Rooted Dirt,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mud,Mud,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+crimson_nylium,Crimson Nylium,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+warped_nylium,Warped Nylium,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+cobblestone,Cobblestone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+oak_planks,Oak Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+spruce_planks,Spruce Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+birch_planks,Birch Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+jungle_planks,Jungle Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+acacia_planks,Acacia Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dark_oak_planks,Dark Oak Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mangrove_planks,Mangrove Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crimson_planks,Crimson Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_planks,Warped Planks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_sapling,Oak Sapling,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+spruce_sapling,Spruce Sapling,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+birch_sapling,Birch Sapling,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+jungle_sapling,Jungle Sapling,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+acacia_sapling,Acacia Sapling,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+dark_oak_sapling,Dark Oak Sapling,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+mangrove_propagule,Mangrove Propagule,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+sand,Sand,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+red_sand,Red Sand,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+gravel,Gravel,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+coal_ore,Coal Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,No
+deepslate_coal_ore,Deepslate Coal Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,No
+iron_ore,Iron Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.7,No,With Blast Furnace,None,No
+deepslate_iron_ore,Deepslate Iron Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.7,No,With Blast Furnace,None,No
+copper_ore,Copper Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.7,No,With Blast Furnace,None,No
+deepslate_copper_ore,Deepslate Copper Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.7,No,With Blast Furnace,None,No
+gold_ore,Gold Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+deepslate_gold_ore,Deepslate Gold Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+redstone_ore,Redstone Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.3,No,With Blast Furnace,None,No
+deepslate_redstone_ore,Deepslate Redstone Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.3,No,With Blast Furnace,None,No
+emerald_ore,Emerald Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+deepslate_emerald_ore,Deepslate Emerald Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+lapis_ore,Lapis Lazuli Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.2,No,With Blast Furnace,None,No
+deepslate_lapis_ore,Deepslate Lapis Lazuli Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.2,No,With Blast Furnace,None,No
+diamond_ore,Diamond Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+deepslate_diamond_ore,Deepslate Diamond Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+nether_gold_ore,Nether Gold Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+nether_quartz_ore,Nether Quartz Ore,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.2,No,With Blast Furnace,None,No
+ancient_debris,Ancient Debris,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,2,No,With Blast Furnace,None,No
+coal_block,Block of Coal,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,800,Yes
+raw_iron_block,Block of Raw Iron,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+raw_copper_block,Block of Raw Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+raw_gold_block,Block of Raw Gold,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+amethyst_block,Block of Amethyst,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+iron_block,Block of Iron,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+copper_block,Block of Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gold_block,Block of Gold,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diamond_block,Block of Diamond,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+netherite_block,Block of Netherite,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+exposed_copper,Exposed Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+weathered_copper,Weathered Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oxidized_copper,Oxidized Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_copper,Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+exposed_cut_copper,Exposed Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+weathered_cut_copper,Weathered Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oxidized_cut_copper,Oxidized Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_copper_stairs,Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+exposed_cut_copper_stairs,Exposed Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+weathered_cut_copper_stairs,Weathered Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oxidized_cut_copper_stairs,Oxidized Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_copper_slab,Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+exposed_cut_copper_slab,Exposed Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+weathered_cut_copper_slab,Weathered Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oxidized_cut_copper_slab,Oxidized Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_copper_block,Waxed Block of Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_exposed_copper,Waxed Exposed Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_weathered_copper,Waxed Weathered Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_oxidized_copper,Waxed Oxidized Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_cut_copper,Waxed Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_exposed_cut_copper,Waxed Exposed Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_weathered_cut_copper,Waxed Weathered Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_oxidized_cut_copper,Waxed Oxidized Cut Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_cut_copper_stairs,Waxed Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_exposed_cut_copper_stairs,Waxed Exposed Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_weathered_cut_copper_stairs,Waxed Weathered Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_oxidized_cut_copper_stairs,Waxed Oxidized Cut Copper Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_cut_copper_slab,Waxed Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_exposed_cut_copper_slab,Waxed Exposed Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_weathered_cut_copper_slab,Waxed Weathered Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+waxed_oxidized_cut_copper_slab,Waxed Oxidized Cut Copper Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_log,Oak Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+spruce_log,Spruce Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+birch_log,Birch Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+jungle_log,Jungle Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+acacia_log,Acacia Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+dark_oak_log,Dark Oak Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+mangrove_log,Mangrove Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+mangrove_roots,Mangrove Roots,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+muddy_mangrove_roots,Muddy Mangrove Roots,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+crimson_stem,Crimson Stem,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_stem,Warped Stem,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stripped_oak_log,Stripped Oak Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_spruce_log,Stripped Spruce Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_birch_log,Stripped Birch Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_jungle_log,Stripped Jungle Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_acacia_log,Stripped Acacia Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_dark_oak_log,Stripped Dark Oak Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_mangrove_log,Stripped Mangrove Log,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_crimson_stem,Stripped Crimson Stem,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stripped_warped_stem,Stripped Warped Stem,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stripped_oak_wood,Stripped Oak Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_spruce_wood,Stripped Spruce Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_birch_wood,Stripped Birch Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_jungle_wood,Stripped Jungle Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_acacia_wood,Stripped Acacia Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_dark_oak_wood,Stripped Dark Oak Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_mangrove_wood,Stripped Mangrove Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+stripped_crimson_hyphae,Stripped Crimson Hyphae,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stripped_warped_hyphae,Stripped Warped Hyphae,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_wood,Oak Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+spruce_wood,Spruce Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+birch_wood,Birch Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+jungle_wood,Jungle Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+acacia_wood,Acacia Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+dark_oak_wood,Dark Oak Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+mangrove_wood,Mangrove Wood,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,15,Yes
+crimson_hyphae,Crimson Hyphae,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_hyphae,Warped Hyphae,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_leaves,Oak Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+spruce_leaves,Spruce Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+birch_leaves,Birch Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+jungle_leaves,Jungle Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+acacia_leaves,Acacia Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dark_oak_leaves,Dark Oak Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mangrove_leaves,Mangrove Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+azalea_leaves,Azalea Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+flowering_azalea_leaves,Flowering Azalea Leaves,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sponge,Sponge,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,No
+wet_sponge,Wet Sponge,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.15,No,With Furnace Only,None,No
+glass,Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+tinted_glass,Tinted Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lapis_block,Block of Lapis Lazuli,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sandstone,Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+chiseled_sandstone,Chiseled Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_sandstone,Cut Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cobweb,Cobweb,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+grass,Grass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+fern,Fern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+azalea,Azalea,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+flowering_azalea,Flowering Azalea,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_bush,Dead Bush,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+seagrass,Seagrass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sea_pickle,Sea Pickle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+white_wool,White Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+orange_wool,Orange Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+magenta_wool,Magenta Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+light_blue_wool,Light Blue Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+yellow_wool,Yellow Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+lime_wool,Lime Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+pink_wool,Pink Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+gray_wool,Gray Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+light_gray_wool,Light Gray Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+cyan_wool,Cyan Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+purple_wool,Purple Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+blue_wool,Blue Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+brown_wool,Brown Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+green_wool,Green Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+red_wool,Red Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+black_wool,Black Wool,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dandelion,Dandelion,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+poppy,Poppy,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_orchid,Blue Orchid,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+allium,Allium,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+azure_bluet,Azure Bluet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_tulip,Red Tulip,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_tulip,Orange Tulip,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_tulip,White Tulip,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_tulip,Pink Tulip,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oxeye_daisy,Oxeye Daisy,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cornflower,Cornflower,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lily_of_the_valley,Lily of the Valley,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+wither_rose,Wither Rose,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+spore_blossom,Spore Blossom,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+brown_mushroom,Brown Mushroom,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_mushroom,Red Mushroom,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+crimson_fungus,Crimson Fungus,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_fungus,Warped Fungus,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+crimson_roots,Crimson Roots,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_roots,Warped Roots,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_sprouts,Nether Sprouts,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+weeping_vines,Weeping Vines,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+twisting_vines,Twisting Vines,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sugar_cane,Sugar Cane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+kelp,Kelp,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Smoker,None,Yes
+moss_carpet,Moss Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+moss_block,Moss Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+hanging_roots,Hanging Roots,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+big_dripleaf,Big Dripleaf,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+small_dripleaf,Small Dripleaf,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bamboo,Bamboo,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,2,Yes
+oak_slab,Oak Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+spruce_slab,Spruce Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+birch_slab,Birch Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+jungle_slab,Jungle Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+acacia_slab,Acacia Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+dark_oak_slab,Dark Oak Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+mangrove_slab,Mangrove Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,7,Yes
+crimson_slab,Crimson Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_slab,Warped Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_slab,Stone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_stone_slab,Smooth Stone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sandstone_slab,Sandstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_sandstone_slab,Cut Sandstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cobblestone_slab,Cobblestone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brick_slab,Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_brick_slab,Stone Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mud_brick_slab,Mud Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_brick_slab,Nether Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+quartz_slab,Quartz Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_sandstone_slab,Red Sandstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_red_sandstone_slab,Cut Red Sandstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purpur_slab,Purpur Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_slab,Prismarine Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_brick_slab,Prismarine Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dark_prismarine_slab,Dark Prismarine Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_quartz,Smooth Quartz Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+smooth_red_sandstone,Smooth Red Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+smooth_sandstone,Smooth Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+smooth_stone,Smooth Stone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+bricks,Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bookshelf,Bookshelf,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mossy_cobblestone,Mossy Cobblestone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+obsidian,Obsidian,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+torch,Torch,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+end_rod,End Rod,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chorus_flower,Chorus Flower,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purpur_block,Purpur Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purpur_pillar,Purpur Pillar,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purpur_stairs,Purpur Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chest,Chest,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crafting_table,Crafting Table,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+furnace,Furnace,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+ladder,Ladder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+cobblestone_stairs,Cobblestone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+snow,Snow,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+ice,Ice,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+snow_block,Snow Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cactus,Cactus,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Furnace Only,None,Yes
+clay,Clay,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.35,No,With Furnace Only,None,Yes
+jukebox,Jukebox,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,No
+oak_fence,Oak Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+spruce_fence,Spruce Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+birch_fence,Birch Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+jungle_fence,Jungle Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+acacia_fence,Acacia Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dark_oak_fence,Dark Oak Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mangrove_fence,Mangrove Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crimson_fence,Crimson Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_fence,Warped Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pumpkin,Pumpkin,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+carved_pumpkin,Carved Pumpkin,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+jack_o_lantern,Jack o'Lantern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+netherrack,Netherrack,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+soul_sand,Soul Sand,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+soul_soil,Soul Soil,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+basalt,Basalt,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+polished_basalt,Polished Basalt,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_basalt,Smooth Basalt,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+soul_torch,Soul Torch,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glowstone,Glowstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_bricks,Stone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+mossy_stone_bricks,Mossy Stone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cracked_stone_bricks,Cracked Stone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+chiseled_stone_bricks,Chiseled Stone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+packed_mud,Packed Mud,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mud_bricks,Mud Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+deepslate_bricks,Deepslate Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,No
+cracked_deepslate_bricks,Cracked Deepslate Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,No
+deepslate_tiles,Deepslate Tiles,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,No
+cracked_deepslate_tiles,Cracked Deepslate Tiles,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,No
+chiseled_deepslate,Chiseled Deepslate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+brown_mushroom_block,Brown Mushroom Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_mushroom_block,Red Mushroom Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mushroom_stem,Mushroom Stem,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+iron_bars,Iron Bars,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chain,Chain,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glass_pane,Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+melon,Melon,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+vine,Vines,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glow_lichen,Glow Lichen,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brick_stairs,Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_brick_stairs,Stone Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mud_brick_stairs,Mud Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mycelium,Mycelium,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lily_pad,Lily Pad,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_bricks,Nether Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+cracked_nether_bricks,Cracked Nether Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+chiseled_nether_bricks,Chiseled Nether Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_brick_fence,Nether Brick Fence,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_brick_stairs,Nether Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sculk,Sculk,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sculk_vein,Sculk Vein,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sculk_catalyst,Sculk Catalyst,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sculk_shrieker,Sculk Shrieker,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+enchanting_table,Enchanting Table,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+end_stone,End Stone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+end_stone_bricks,End Stone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dragon_egg,Dragon Egg,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sandstone_stairs,Sandstone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+ender_chest,Ender Chest,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+emerald_block,Block of Emerald,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_stairs,Oak Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+spruce_stairs,Spruce Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+birch_stairs,Birch Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+jungle_stairs,Jungle Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+acacia_stairs,Acacia Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dark_oak_stairs,Dark Oak Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mangrove_stairs,Mangrove Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crimson_stairs,Crimson Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_stairs,Warped Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+beacon,Beacon,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cobblestone_wall,Cobblestone Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mossy_cobblestone_wall,Mossy Cobblestone Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brick_wall,Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_wall,Prismarine Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_sandstone_wall,Red Sandstone Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mossy_stone_brick_wall,Mossy Stone Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+granite_wall,Granite Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_brick_wall,Stone Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mud_brick_wall,Mud Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_brick_wall,Nether Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+andesite_wall,Andesite Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_nether_brick_wall,Red Nether Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sandstone_wall,Sandstone Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+end_stone_brick_wall,End Stone Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diorite_wall,Diorite Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blackstone_wall,Blackstone Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_wall,Polished Blackstone Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_brick_wall,Polished Blackstone Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cobbled_deepslate_wall,Cobbled Deepslate Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+polished_deepslate_wall,Polished Deepslate Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+deepslate_brick_wall,Deepslate Brick Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+deepslate_tile_wall,Deepslate Tile Wall,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+anvil,Anvil,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chipped_anvil,Chipped Anvil,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+damaged_anvil,Damaged Anvil,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chiseled_quartz_block,Chiseled Quartz Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+quartz_block,Block of Quartz,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+quartz_bricks,Quartz Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+quartz_pillar,Quartz Pillar,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+quartz_stairs,Quartz Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_terracotta,White Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+orange_terracotta,Orange Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+magenta_terracotta,Magenta Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+light_blue_terracotta,Light Blue Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+yellow_terracotta,Yellow Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+lime_terracotta,Lime Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+pink_terracotta,Pink Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+gray_terracotta,Gray Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+light_gray_terracotta,Light Gray Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+cyan_terracotta,Cyan Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+purple_terracotta,Purple Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+blue_terracotta,Blue Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+brown_terracotta,Brown Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+green_terracotta,Green Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+red_terracotta,Red Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+black_terracotta,Black Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+hay_block,Hay Bale,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_carpet,White Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+orange_carpet,Orange Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+magenta_carpet,Magenta Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+light_blue_carpet,Light Blue Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+yellow_carpet,Yellow Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+lime_carpet,Lime Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+pink_carpet,Pink Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+gray_carpet,Gray Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+light_gray_carpet,Light Gray Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+cyan_carpet,Cyan Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+purple_carpet,Purple Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+blue_carpet,Blue Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+brown_carpet,Brown Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+green_carpet,Green Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+red_carpet,Red Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+black_carpet,Black Carpet,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+terracotta,Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+packed_ice,Packed Ice,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sunflower,Sunflower,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lilac,Lilac,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+rose_bush,Rose Bush,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+peony,Peony,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tall_grass,Tall Grass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+large_fern,Large Fern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+white_stained_glass,White Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_stained_glass,Orange Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_stained_glass,Magenta Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_stained_glass,Light Blue Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_stained_glass,Yellow Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_stained_glass,Lime Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_stained_glass,Pink Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_stained_glass,Gray Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_stained_glass,Light Gray Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_stained_glass,Cyan Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_stained_glass,Purple Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_stained_glass,Blue Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_stained_glass,Brown Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_stained_glass,Green Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_stained_glass,Red Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_stained_glass,Black Stained Glass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_stained_glass_pane,White Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_stained_glass_pane,Orange Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_stained_glass_pane,Magenta Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_stained_glass_pane,Light Blue Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_stained_glass_pane,Yellow Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_stained_glass_pane,Lime Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_stained_glass_pane,Pink Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_stained_glass_pane,Gray Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_stained_glass_pane,Light Gray Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_stained_glass_pane,Cyan Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_stained_glass_pane,Purple Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_stained_glass_pane,Blue Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_stained_glass_pane,Brown Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_stained_glass_pane,Green Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_stained_glass_pane,Red Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_stained_glass_pane,Black Stained Glass Pane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine,Prismarine,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_bricks,Prismarine Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dark_prismarine,Dark Prismarine,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_stairs,Prismarine Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_brick_stairs,Prismarine Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dark_prismarine_stairs,Dark Prismarine Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sea_lantern,Sea Lantern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_sandstone,Red Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+chiseled_red_sandstone,Chiseled Red Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cut_red_sandstone,Cut Red Sandstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_sandstone_stairs,Red Sandstone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magma_block,Magma Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nether_wart_block,Nether Wart Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_wart_block,Warped Wart Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_nether_bricks,Red Nether Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bone_block,Bone Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+shulker_box,Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_shulker_box,White Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_shulker_box,Orange Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_shulker_box,Magenta Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_shulker_box,Light Blue Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_shulker_box,Yellow Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_shulker_box,Lime Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_shulker_box,Pink Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_shulker_box,Gray Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_shulker_box,Light Gray Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_shulker_box,Cyan Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_shulker_box,Purple Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_shulker_box,Blue Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_shulker_box,Brown Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_shulker_box,Green Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_shulker_box,Red Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_shulker_box,Black Shulker Box,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_glazed_terracotta,White Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+orange_glazed_terracotta,Orange Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+magenta_glazed_terracotta,Magenta Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+light_blue_glazed_terracotta,Light Blue Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+yellow_glazed_terracotta,Yellow Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+lime_glazed_terracotta,Lime Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+pink_glazed_terracotta,Pink Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+gray_glazed_terracotta,Gray Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+light_gray_glazed_terracotta,Light Gray Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+cyan_glazed_terracotta,Cyan Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+purple_glazed_terracotta,Purple Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+blue_glazed_terracotta,Blue Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+brown_glazed_terracotta,Brown Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+green_glazed_terracotta,Green Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+red_glazed_terracotta,Red Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+black_glazed_terracotta,Black Glazed Terracotta,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+white_concrete,White Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_concrete,Orange Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_concrete,Magenta Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_concrete,Light Blue Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_concrete,Yellow Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_concrete,Lime Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_concrete,Pink Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_concrete,Gray Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_concrete,Light Gray Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_concrete,Cyan Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_concrete,Purple Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_concrete,Blue Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_concrete,Brown Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_concrete,Green Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_concrete,Red Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_concrete,Black Concrete,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_concrete_powder,White Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_concrete_powder,Orange Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_concrete_powder,Magenta Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_concrete_powder,Light Blue Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_concrete_powder,Yellow Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_concrete_powder,Lime Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_concrete_powder,Pink Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_concrete_powder,Gray Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_concrete_powder,Light Gray Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_concrete_powder,Cyan Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_concrete_powder,Purple Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_concrete_powder,Blue Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_concrete_powder,Brown Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_concrete_powder,Green Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_concrete_powder,Red Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_concrete_powder,Black Concrete Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+turtle_egg,Turtle Egg,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_tube_coral_block,Dead Tube Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_brain_coral_block,Dead Brain Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_bubble_coral_block,Dead Bubble Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_fire_coral_block,Dead Fire Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_horn_coral_block,Dead Horn Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tube_coral_block,Tube Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brain_coral_block,Brain Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bubble_coral_block,Bubble Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+fire_coral_block,Fire Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+horn_coral_block,Horn Coral Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tube_coral,Tube Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brain_coral,Brain Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bubble_coral,Bubble Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+fire_coral,Fire Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+horn_coral,Horn Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_brain_coral,Dead Brain Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_bubble_coral,Dead Bubble Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_fire_coral,Dead Fire Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_horn_coral,Dead Horn Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_tube_coral,Dead Tube Coral,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tube_coral_fan,Tube Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brain_coral_fan,Brain Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bubble_coral_fan,Bubble Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+fire_coral_fan,Fire Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+horn_coral_fan,Horn Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_tube_coral_fan,Dead Tube Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_brain_coral_fan,Dead Brain Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_bubble_coral_fan,Dead Bubble Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_fire_coral_fan,Dead Fire Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dead_horn_coral_fan,Dead Horn Coral Fan,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_ice,Blue Ice,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+conduit,Conduit,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_granite_stairs,Polished Granite Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_red_sandstone_stairs,Smooth Red Sandstone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mossy_stone_brick_stairs,Mossy Stone Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_diorite_stairs,Polished Diorite Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mossy_cobblestone_stairs,Mossy Cobblestone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+end_stone_brick_stairs,End Stone Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_stairs,Stone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_sandstone_stairs,Smooth Sandstone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_quartz_stairs,Smooth Quartz Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+granite_stairs,Granite Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+andesite_stairs,Andesite Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_nether_brick_stairs,Red Nether Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_andesite_stairs,Polished Andesite Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diorite_stairs,Diorite Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cobbled_deepslate_stairs,Cobbled Deepslate Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+polished_deepslate_stairs,Polished Deepslate Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+deepslate_brick_stairs,Deepslate Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+deepslate_tile_stairs,Deepslate Tile Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+polished_granite_slab,Polished Granite Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_red_sandstone_slab,Smooth Red Sandstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mossy_stone_brick_slab,Mossy Stone Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_diorite_slab,Polished Diorite Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mossy_cobblestone_slab,Mossy Cobblestone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+end_stone_brick_slab,End Stone Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_sandstone_slab,Smooth Sandstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smooth_quartz_slab,Smooth Quartz Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+granite_slab,Granite Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+andesite_slab,Andesite Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_nether_brick_slab,Red Nether Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_andesite_slab,Polished Andesite Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diorite_slab,Diorite Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cobbled_deepslate_slab,Cobbled Deepslate Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+polished_deepslate_slab,Polished Deepslate Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+deepslate_brick_slab,Deepslate Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+deepslate_tile_slab,Deepslate Tile Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+scaffolding,Scaffolding,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,2,Yes
+redstone,Redstone Dust,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+redstone_torch,Redstone Torch,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+redstone_block,Block of Redstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+repeater,Redstone Repeater,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+comparator,Redstone Comparator,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+piston,Piston,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sticky_piston,Sticky Piston,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+slime_block,Slime Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+honey_block,Honey Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+observer,Observer,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+hopper,Hopper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dispenser,Dispenser,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dropper,Dropper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lectern,Lectern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+target,Target,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lever,Lever,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lightning_rod,Lightning Rod,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+daylight_detector,Daylight Detector,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+sculk_sensor,Sculk Sensor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tripwire_hook,Tripwire Hook,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+trapped_chest,Trapped Chest,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+tnt,TNT,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+redstone_lamp,Redstone Lamp,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+note_block,Note Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+stone_button,Stone Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_button,Polished Blackstone Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_button,Oak Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+spruce_button,Spruce Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+birch_button,Birch Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+jungle_button,Jungle Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+acacia_button,Acacia Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+dark_oak_button,Dark Oak Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+mangrove_button,Mangrove Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+crimson_button,Crimson Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_button,Warped Button,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+stone_pressure_plate,Stone Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_pressure_plate,Polished Blackstone Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_weighted_pressure_plate,Light Weighted Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+heavy_weighted_pressure_plate,Heavy Weighted Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_pressure_plate,Oak Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+spruce_pressure_plate,Spruce Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+birch_pressure_plate,Birch Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+jungle_pressure_plate,Jungle Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+acacia_pressure_plate,Acacia Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dark_oak_pressure_plate,Dark Oak Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mangrove_pressure_plate,Mangrove Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crimson_pressure_plate,Crimson Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_pressure_plate,Warped Pressure Plate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+iron_door,Iron Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_door,Oak Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+spruce_door,Spruce Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+birch_door,Birch Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+jungle_door,Jungle Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+acacia_door,Acacia Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+dark_oak_door,Dark Oak Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+mangrove_door,Mangrove Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+crimson_door,Crimson Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_door,Warped Door,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+iron_trapdoor,Iron Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_trapdoor,Oak Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+spruce_trapdoor,Spruce Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+birch_trapdoor,Birch Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+jungle_trapdoor,Jungle Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+acacia_trapdoor,Acacia Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dark_oak_trapdoor,Dark Oak Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mangrove_trapdoor,Mangrove Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crimson_trapdoor,Crimson Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_trapdoor,Warped Trapdoor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+oak_fence_gate,Oak Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+spruce_fence_gate,Spruce Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+birch_fence_gate,Birch Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+jungle_fence_gate,Jungle Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+acacia_fence_gate,Acacia Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+dark_oak_fence_gate,Dark Oak Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+mangrove_fence_gate,Mangrove Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+crimson_fence_gate,Crimson Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_fence_gate,Warped Fence Gate,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+powered_rail,Powered Rail,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+detector_rail,Detector Rail,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+rail,Rail,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+activator_rail,Activator Rail,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+saddle,Saddle,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+minecart,Minecart,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chest_minecart,Minecart with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+furnace_minecart,Minecart with Furnace,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tnt_minecart,Minecart with TNT,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+hopper_minecart,Minecart with Hopper,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+carrot_on_a_stick,Carrot on a Stick,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_fungus_on_a_stick,Warped Fungus on a Stick,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+elytra,Elytra,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+oak_boat,Oak Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+oak_chest_boat,Oak Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+spruce_boat,Spruce Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+spruce_chest_boat,Spruce Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+birch_boat,Birch Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+birch_chest_boat,Birch Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+jungle_boat,Jungle Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+jungle_chest_boat,Jungle Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+acacia_boat,Acacia Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+acacia_chest_boat,Acacia Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+dark_oak_boat,Dark Oak Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+dark_oak_chest_boat,Dark Oak Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+mangrove_boat,Mangrove Boat,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+mangrove_chest_boat,Mangrove Boat with Chest,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,60,Yes
+turtle_helmet,Turtle Shell,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+scute,Scute,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+flint_and_steel,Flint and Steel,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+apple,Apple,64,Yes,Yes,4,2.4,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bow,Bow,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+arrow,Arrow,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+coal,Coal,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,80,Yes
+charcoal,Charcoal,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,80,Yes
+diamond,Diamond,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,No
+emerald,Emerald,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+lapis_lazuli,Lapis Lazuli,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+quartz,Nether Quartz,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+amethyst_shard,Amethyst Shard,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+raw_iron,Raw Iron,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.7,No,With Blast Furnace,None,No
+iron_ingot,Iron Ingot,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+raw_copper,Raw Copper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.7,No,With Blast Furnace,None,No
+copper_ingot,Copper Ingot,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+raw_gold,Raw Gold,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,1,No,With Blast Furnace,None,No
+gold_ingot,Gold Ingot,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+netherite_ingot,Netherite Ingot,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+netherite_scrap,Netherite Scrap,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,No
+wooden_sword,Wooden Sword,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.6,4,6.4,1.5,0.625,Non-Smeltable,No,No,10,Yes
+wooden_shovel,Wooden Shovel,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,2.5,2.5,2,1,Non-Smeltable,No,No,10,Yes
+wooden_pickaxe,Wooden Pickaxe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.2,2,2.4,2,0.833,Non-Smeltable,No,No,10,Yes
+wooden_axe,Wooden Axe,Unstackable,Yes,Yes,None,None,Inedible,Yes,0.8,7,5.6,2,1.25,Non-Smeltable,No,No,10,Yes
+wooden_hoe,Wooden Hoe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,1,1,2,1,Non-Smeltable,No,No,10,Yes
+stone_sword,Stone Sword,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.6,5,8,1.5,0.625,Non-Smeltable,No,No,None,Yes
+stone_shovel,Stone Shovel,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,3.5,3.5,4,1,Non-Smeltable,No,No,None,Yes
+stone_pickaxe,Stone Pickaxe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.2,3,3.6,4,0.833,Non-Smeltable,No,No,None,Yes
+stone_axe,Stone Axe,Unstackable,Yes,Yes,None,None,Inedible,Yes,0.8,9,7.2,4,1.25,Non-Smeltable,No,No,None,Yes
+stone_hoe,Stone Hoe,Unstackable,Yes,Yes,None,None,Inedible,Yes,2,1,2,4,0.5,Non-Smeltable,No,No,None,Yes
+golden_sword,Golden Sword,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.6,4,6.4,1.5,0.625,0.1,No,With Blast Furnace,None,Yes
+golden_shovel,Golden Shovel,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,2.5,2.5,12,1,0.1,No,With Blast Furnace,None,Yes
+golden_pickaxe,Golden Pickaxe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.2,2,2.4,12,0.833,0.1,No,With Blast Furnace,None,Yes
+golden_axe,Golden Axe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,7,7,12,1,0.1,No,With Blast Furnace,None,Yes
+golden_hoe,Golden Hoe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,1,1,12,1,0.1,No,With Blast Furnace,None,Yes
+iron_sword,Iron Sword,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.6,6,9.6,1.5,0.625,0.1,No,With Blast Furnace,None,Yes
+iron_shovel,Iron Shovel,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,4.5,4.5,6,1,0.1,No,With Blast Furnace,None,Yes
+iron_pickaxe,Iron Pickaxe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.2,4,4.8,6,0.833,0.1,No,With Blast Furnace,None,Yes
+iron_axe,Iron Axe,Unstackable,Yes,Yes,None,None,Inedible,Yes,0.9,9,8.1,6,1.111,0.1,No,With Blast Furnace,None,Yes
+iron_hoe,Iron Hoe,Unstackable,Yes,Yes,None,None,Inedible,Yes,3,1,3,6,0.333,0.1,No,With Blast Furnace,None,Yes
+diamond_sword,Diamond Sword,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.6,7,11.2,1.5,0.625,Non-Smeltable,No,No,None,Yes
+diamond_shovel,Diamond Shovel,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,5.5,5.5,8,1,Non-Smeltable,No,No,None,Yes
+diamond_pickaxe,Diamond Pickaxe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.2,5,6,8,0.833,Non-Smeltable,No,No,None,Yes
+diamond_axe,Diamond Axe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,9,9,8,1,Non-Smeltable,No,No,None,Yes
+diamond_hoe,Diamond Hoe,Unstackable,Yes,Yes,None,None,Inedible,Yes,4,1,4,8,0.25,Non-Smeltable,No,No,None,Yes
+netherite_sword,Netherite Sword,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.6,8,12.8,1.5,0.625,Non-Smeltable,No,No,None,No
+netherite_shovel,Netherite Shovel,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,6.5,6.5,9,1,Non-Smeltable,No,No,None,No
+netherite_pickaxe,Netherite Pickaxe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.2,6,7.2,9,0.833,Non-Smeltable,No,No,None,No
+netherite_axe,Netherite Axe,Unstackable,Yes,Yes,None,None,Inedible,Yes,1,10,10,9,1,Non-Smeltable,No,No,None,No
+netherite_hoe,Netherite Hoe,Unstackable,Yes,Yes,None,None,Inedible,Yes,4,1,4,9,0.25,Non-Smeltable,No,No,None,No
+stick,Stick,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+bowl,Bowl,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,5,Yes
+mushroom_stew,Mushroom Stew,Unstackable,Yes,Yes,6,7.2,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+string,String,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+feather,Feather,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gunpowder,Gunpowder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+wheat_seeds,Wheat Seeds,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+wheat,Wheat,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bread,Bread,64,Yes,Yes,5,6,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+leather_helmet,Leather Cap,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+leather_chestplate,Leather Tunic,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+leather_leggings,Leather Pants,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+leather_boots,Leather Boots,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chainmail_helmet,Chainmail Helmet,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+chainmail_chestplate,Chainmail Chestplate,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+chainmail_leggings,Chainmail Leggings,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+chainmail_boots,Chainmail Boots,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+iron_helmet,Iron Helmet,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+iron_chestplate,Iron Chestplate,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+iron_leggings,Iron Leggings,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+iron_boots,Iron Boots,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+diamond_helmet,Diamond Helmet,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diamond_chestplate,Diamond Chestplate,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diamond_leggings,Diamond Leggings,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+diamond_boots,Diamond Boots,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+golden_helmet,Golden Helmet,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+golden_chestplate,Golden Chestplate,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+golden_leggings,Golden Leggings,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+golden_boots,Golden Boots,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,Yes
+netherite_helmet,Netherite Helmet,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+netherite_chestplate,Netherite Chestplate,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+netherite_leggings,Netherite Leggings,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+netherite_boots,Netherite Boots,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+flint,Flint,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+porkchop,Raw Porkchop,64,Yes,Yes,3,1.8,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+cooked_porkchop,Cooked Porkchop,64,Yes,Yes,8,12.8,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+painting,Painting,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+golden_apple,Golden Apple,64,Yes,Yes,4,9.6,Regeneration II for 5 seconds or Absorption for 2 minutes,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+enchanted_golden_apple,Enchanted Golden Apple,64,Yes,Yes,4,9.6,Regeneration II for 20 seconds and Absorption IV for 2 minutes and Resistance for 5 minutes and Fire Resistance for 5 minutes,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+oak_sign,Oak Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+spruce_sign,Spruce Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+birch_sign,Birch Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+jungle_sign,Jungle Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+acacia_sign,Acacia Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+dark_oak_sign,Dark Oak Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+mangrove_sign,Mangrove Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,10,Yes
+crimson_sign,Crimson Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+warped_sign,Warped Sign,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bucket,Bucket,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+water_bucket,Water Bucket,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lava_bucket,Lava Bucket,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,1000,Yes
+powder_snow_bucket,Powder Snow Bucket,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+snowball,Snowball,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+leather,Leather,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+milk_bucket,Milk Bucket,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pufferfish_bucket,Bucket of Pufferfish,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+salmon_bucket,Bucket of Salmon,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cod_bucket,Bucket of Cod,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tropical_fish_bucket,Bucket of Tropical Fish,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+axolotl_bucket,Bucket of Axolotl,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+tadpole_bucket,Bucket of Tadpole,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brick,Brick,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+clay_ball,Clay Ball,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.3,No,With Furnace Only,None,Yes
+dried_kelp_block,Dried Kelp Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,200,Yes
+paper,Paper,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+book,Book,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+slime_ball,Slimeball,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+egg,Egg,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+compass,Compass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+recovery_compass,Recovery Compass,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+fishing_rod,Fishing Rod,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+clock,Clock,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+spyglass,Spyglass,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glowstone_dust,Glowstone Dust,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cod,Raw Cod,64,Yes,Yes,2,0.4,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+salmon,Raw Salmon,64,Yes,Yes,2,0.4,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+tropical_fish,Tropical Fish,64,Yes,Yes,1,0.2,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pufferfish,Pufferfish,64,Yes,Yes,1,0.2,Hunger III for 15 seconds and Poison II for 60 seconds and Nausea for 15 seconds,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cooked_cod,Cooked Cod,64,Yes,Yes,5,6,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+cooked_salmon,Cooked Salmon,64,Yes,Yes,6,9.6,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+ink_sac,Ink Sac,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glow_ink_sac,Glow Ink Sac,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cocoa_beans,Cocoa Beans,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_dye,White Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_dye,Orange Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_dye,Magenta Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_dye,Light Blue Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_dye,Yellow Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_dye,Lime Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+pink_dye,Pink Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_dye,Gray Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_dye,Light Gray Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_dye,Cyan Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_dye,Purple Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_dye,Blue Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_dye,Brown Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_dye,Green Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+red_dye,Red Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_dye,Black Dye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bone_meal,Bone Meal,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bone,Bone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sugar,Sugar,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cake,Cake,Unstackable,Yes,Yes,14,2.8,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_bed,White Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_bed,Orange Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_bed,Magenta Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_bed,Light Blue Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_bed,Yellow Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_bed,Lime Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_bed,Pink Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_bed,Gray Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_bed,Light Gray Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_bed,Cyan Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_bed,Purple Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_bed,Blue Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_bed,Brown Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_bed,Green Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_bed,Red Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_bed,Black Bed,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cookie,Cookie,64,Yes,Yes,2,0.4,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+filled_map,Map,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+shears,Shears,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,5,No,Non-Smeltable,No,No,None,Yes
+,,,,,,,,,,,,,,,,,,
+melon_slice,Melon Slice,64,Yes,Yes,2,1.2,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dried_kelp,Dried Kelp,64,Yes,Yes,1,0.6,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+pumpkin_seeds,Pumpkin Seeds,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+melon_seeds,Melon Seeds,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+beef,Raw Beef,64,Yes,Yes,3,1.8,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+cooked_beef,Steak,64,Yes,Yes,8,12.8,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+chicken,Raw Chicken,64,Yes,Yes,2,1.2,Hunger for 30 seconds (30% chance),No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+cooked_chicken,Cooked Chicken,64,Yes,Yes,6,7.2,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+rotten_flesh,Rotten Flesh,64,Yes,Yes,4,0.8,Hunger for 30 seconds (80% chance),No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+ender_pearl,Ender Pearl,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,1,Non-Smeltable,No,No,None,Yes
+blaze_rod,Blaze Rod,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,120,Yes
+ghast_tear,Ghast Tear,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gold_nugget,Gold Nugget,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+nether_wart,Nether Wart,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glass_bottle,Glass Bottle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+spider_eye,Spider Eye,64,Yes,Yes,2,3.2,Poison for 5 seconds,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+fermented_spider_eye,Fermented Spider Eye,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blaze_powder,Blaze Powder,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magma_cream,Magma Cream,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brewing_stand,Brewing Stand,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cauldron,Cauldron,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+ender_eye,Eye of Ender,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glistering_melon_slice,Glistering Melon Slice,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+experience_bottle,Bottle o' Enchanting,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+fire_charge,Fire Charge,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+writable_book,Book and Quill,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+written_book,Written Book,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+item_frame,Item Frame,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glow_item_frame,Glow Item Frame,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+flower_pot,Flower Pot,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+carrot,Carrot,64,Yes,Yes,3,3.6,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+potato,Potato,64,Yes,Yes,1,0.6,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+baked_potato,Baked Potato,64,Yes,Yes,5,6,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+poisonous_potato,Poisonous Potato,64,Yes,Yes,2,1.2,Poison for 5 seconds (60% chance),No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+map,Empty Map,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+golden_carrot,Golden Carrot,64,Yes,Yes,6,14.4,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+skeleton_skull,Skeleton Skull,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+wither_skeleton_skull,Wither Skeleton Skull,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+zombie_head,Zombie Head,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+creeper_head,Creeper Head,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dragon_head,Dragon Head,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+nether_star,Nether Star,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pumpkin_pie,Pumpkin Pie,64,Yes,Yes,8,4.8,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+firework_rocket,Firework Rocket,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+firework_star,Firework Star,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+enchanted_book,Enchanted Book,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,All except Swift Sneak
+nether_brick,Nether Brick,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+prismarine_shard,Prismarine Shard,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+prismarine_crystals,Prismarine Crystals,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+rabbit,Raw Rabbit,64,Yes,Yes,3,1.8,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+cooked_rabbit,Cooked Rabbit,64,Yes,Yes,5,6,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+rabbit_stew,Rabbit Stew,Unstackable,Yes,Yes,10,12,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+rabbit_foot,Rabbit's Foot,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+rabbit_hide,Rabbit Hide,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+armor_stand,Armor Stand,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+iron_horse_armor,Iron Horse Armor,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,No
+golden_horse_armor,Golden Horse Armor,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Blast Furnace,None,No
+diamond_horse_armor,Diamond Horse Armor,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+leather_horse_armor,Leather Horse Armor,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lead,Lead,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+name_tag,Name Tag,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mutton,Raw Mutton,64,Yes,Yes,2,1.2,None,No,4,1,4,1,No,0.35,No,With Smoker,None,Yes
+cooked_mutton,Cooked Mutton,64,Yes,Yes,6,9.6,None,No,4,1,4,1,No,Non-Smeltable,With Smoker,No,None,Yes
+white_banner,White Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+orange_banner,Orange Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+magenta_banner,Magenta Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+light_blue_banner,Light Blue Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+yellow_banner,Yellow Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+lime_banner,Lime Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+pink_banner,Pink Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+gray_banner,Gray Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+light_gray_banner,Light Gray Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+cyan_banner,Cyan Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+purple_banner,Purple Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+blue_banner,Blue Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+brown_banner,Brown Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+green_banner,Green Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+red_banner,Red Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+black_banner,Black Banner,16,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+end_crystal,End Crystal,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chorus_fruit,Chorus Fruit,64,Yes,Yes,4,2.4,The player may be teleported randomly.,No,4,1,4,1,1,0.1,No,With Furnace Only,None,Yes
+popped_chorus_fruit,Popped Chorus Fruit,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+beetroot,Beetroot,64,Yes,Yes,1,1.2,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+beetroot_seeds,Beetroot Seeds,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+beetroot_soup,Beetroot Soup,Unstackable,Yes,Yes,6,7.2,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+dragon_breath,Dragon's Breath,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+spectral_arrow,Spectral Arrow,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+shield,Shield,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,5,Non-Smeltable,No,No,None,Yes
+totem_of_undying,Totem of Undying,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+shulker_shell,Shulker Shell,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+iron_nugget,Iron Nugget,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Blast Furnace,No,None,Yes
+music_disc_13,13 Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_cat,Cat Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_blocks,Blocks Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_chirp,Chirp Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_far,Far Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_mall,Mall Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_mellohi,Mellohi Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_stal,Stal Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_strad,Strad Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_ward,Ward Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_11,11 Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_wait,Wait Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+music_disc_otherside,Otherside Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+music_disc_pigstep,Pigstep Disc,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+trident,Trident,Unstackable,Yes,Yes,None,None,Inedible,Yes,1.1,9,9.9,1,0.9,Non-Smeltable,No,No,None,Yes
+phantom_membrane,Phantom Membrane,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+nautilus_shell,Nautilus Shell,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+heart_of_the_sea,Heart of the Sea,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+crossbow,Crossbow,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+suspicious_stew,Suspicious Stew,Unstackable,Yes,Yes,6,7.2,Regeneration or Jump Boost or Poison or Wither or Weakness or Blindness or Fire Resistance or Saturation or Night Vision ( for 3-11 seconds),No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+loom,Loom,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+flower_banner_pattern,Flower Charge Banner Pattern,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+creeper_banner_pattern,Creeper Charge Banner Pattern,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+skull_banner_pattern,Skull Charge Banner Pattern,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+mojang_banner_pattern,Thing Banner Pattern,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+globe_banner_pattern,Globe Banner Pattern,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+piglin_banner_pattern,Snout Banner Pattern,Unstackable,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+composter,Composter,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+barrel,Barrel,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+smoker,Smoker,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blast_furnace,Blast Furnace,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cartography_table,Cartography Table,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+fletching_table,Fletching Table,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+grindstone,Grindstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+smithing_table,Smithing Table,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,15,Yes
+stonecutter,Stonecutter,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bell,Bell,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lantern,Lantern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+soul_lantern,Soul Lantern,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+sweet_berries,Sweet Berries,64,Yes,Yes,2,0.4,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+glow_berries,Glow Berries,64,Yes,Yes,2,0.4,None,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+campfire,Campfire,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+soul_campfire,Soul Campfire,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+shroomlight,Shroomlight,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+honeycomb,Honeycomb,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+bee_nest,Bee Nest,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+beehive,Beehive,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+honey_bottle,Honey Bottle,16,Yes,Yes,6,1.2,Clears Poison,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+honeycomb_block,Honeycomb Block,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lodestone,Lodestone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+crying_obsidian,Crying Obsidian,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blackstone,Blackstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blackstone_slab,Blackstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blackstone_stairs,Blackstone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gilded_blackstone,Gilded Blackstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+polished_blackstone,Polished Blackstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_slab,Polished Blackstone Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_stairs,Polished Blackstone Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+chiseled_polished_blackstone,Chiseled Polished Blackstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_bricks,Polished Blackstone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,0.1,No,With Furnace Only,None,Yes
+polished_blackstone_brick_slab,Polished Blackstone Brick Slab,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+polished_blackstone_brick_stairs,Polished Blackstone Brick Stairs,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cracked_polished_blackstone_bricks,Cracked Polished Blackstone Bricks,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,With Furnace Only,No,None,Yes
+respawn_anchor,Respawn Anchor,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+candle,Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+white_candle,White Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+orange_candle,Orange Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+magenta_candle,Magenta Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_blue_candle,Light Blue Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+yellow_candle,Yellow Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+lime_candle,Lime Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pink_candle,Pink Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+gray_candle,Gray Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+light_gray_candle,Light Gray Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+cyan_candle,Cyan Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+purple_candle,Purple Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+blue_candle,Blue Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+brown_candle,Brown Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+green_candle,Green Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+red_candle,Red Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+black_candle,Black Candle,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+small_amethyst_bud,Small Amethyst Bud,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+medium_amethyst_bud,Medium Amethyst Bud,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+large_amethyst_bud,Large Amethyst Bud,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+amethyst_cluster,Amethyst Cluster,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pointed_dripstone,Pointed Dripstone,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+ochre_froglight,Ochre Froglight,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+verdant_froglight,Verdant Froglight,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+pearlescent_froglight,Pearlescent Froglight,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,Yes
+echo_shard,Echo Shard,64,Yes,Yes,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+bedrock,Bedrock,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+budding_amethyst,Budding Amethyst,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+petrified_oak_slab,Petrified Oak Slab,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+chorus_plant,Chorus Plant,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+spawner,Spawner,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+farmland,Farmland,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_stone,Infested Stone,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_cobblestone,Infested Cobblestone,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_stone_bricks,Infested Stone Bricks,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_mossy_stone_bricks,Infested Mossy Stone Bricks,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_cracked_stone_bricks,Infested Cracked Stone Bricks,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_chiseled_stone_bricks,Infested Chiseled Stone Bricks,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+infested_deepslate,Infested Deepslate,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+reinforced_deepslate,Reinforced Deepslate,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+end_portal_frame,End Portal Frame,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+command_block,Command Block,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+barrier,Barrier,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+light,Light,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+dirt_path,Dirt Path,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+repeating_command_block,Repeating Command Block,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+chain_command_block,Chain Command Block,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+structure_void,Structure Void,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+structure_block,Structure Block,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+jigsaw,Jigsaw Block,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+bundle,Bundle,Unstackable,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+allay_spawn_egg,Allay Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+axolotl_spawn_egg,Axolotl Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+bat_spawn_egg,Bat Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+bee_spawn_egg,Bee Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+blaze_spawn_egg,Blaze Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+cat_spawn_egg,Cat Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+cave_spider_spawn_egg,Cave Spider Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+chicken_spawn_egg,Chicken Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+cod_spawn_egg,Cod Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+cow_spawn_egg,Cow Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+creeper_spawn_egg,Creeper Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+dolphin_spawn_egg,Dolphin Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+donkey_spawn_egg,Donkey Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+drowned_spawn_egg,Drowned Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+elder_guardian_spawn_egg,Elder Guardian Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+enderman_spawn_egg,Enderman Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+endermite_spawn_egg,Endermite Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+evoker_spawn_egg,Evoker Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+fox_spawn_egg,Fox Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+frog_spawn_egg,Frog Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+ghast_spawn_egg,Ghast Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+glow_squid_spawn_egg,Glow Squid Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+goat_spawn_egg,Goat Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+guardian_spawn_egg,Guardian Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+hoglin_spawn_egg,Hoglin Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+horse_spawn_egg,Horse Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+husk_spawn_egg,Husk Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+llama_spawn_egg,Llama Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+magma_cube_spawn_egg,Magma Cube Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+mooshroom_spawn_egg,Mooshroom Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+mule_spawn_egg,Mule Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+ocelot_spawn_egg,Ocelot Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+panda_spawn_egg,Panda Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+parrot_spawn_egg,Parrot Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+phantom_spawn_egg,Phantom Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+pig_spawn_egg,Pig Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+piglin_spawn_egg,Piglin Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+piglin_brute_spawn_egg,Piglin Brute Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+pillager_spawn_egg,Pillager Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+polar_bear_spawn_egg,Polar Bear Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+pufferfish_spawn_egg,Pufferfish Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+rabbit_spawn_egg,Rabbit Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+ravager_spawn_egg,Ravager Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+salmon_spawn_egg,Salmon Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+sheep_spawn_egg,Sheep Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+shulker_spawn_egg,Shulker Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+silverfish_spawn_egg,Silverfish Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+skeleton_spawn_egg,Skeleton Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+skeleton_horse_spawn_egg,Skeleton Horse Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+slime_spawn_egg,Slime Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+spider_spawn_egg,Spider Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+squid_spawn_egg,Squid Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+stray_spawn_egg,Stray Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+strider_spawn_egg,Strider Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+tadpole_spawn_egg,Tadpole Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+trader_llama_spawn_egg,Trader Llama Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+tropical_fish_spawn_egg,Tropical Fish Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+turtle_spawn_egg,Turtle Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+vex_spawn_egg,Vex Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+villager_spawn_egg,Villager Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+vindicator_spawn_egg,Vindicator Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+wandering_trader_spawn_egg,Wandering Trader Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+warden_spawn_egg,Warden Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+witch_spawn_egg,Witch Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+wither_skeleton_spawn_egg,Wither Skeleton Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+wolf_spawn_egg,Wolf Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+zoglin_spawn_egg,Zoglin Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+zombie_spawn_egg,Zombie Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+zombie_horse_spawn_egg,Zombie Horse Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+zombie_villager_spawn_egg,Zombie Villager Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+zombified_piglin_spawn_egg,Zombified Piglin Spawn Egg,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+player_head,Player Head,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+command_block_minecart,Minecart with Command Block,Unstackable,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+knowledge_book,Knowledge Book,Unstackable,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+debug_stick,Debug Stick,Unstackable,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No
+frogspawn,Frogspawn,64,No,No,None,None,Inedible,No,4,1,4,1,No,Non-Smeltable,No,No,None,No

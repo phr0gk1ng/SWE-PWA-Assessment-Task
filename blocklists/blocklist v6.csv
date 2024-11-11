@@ -1,0 +1,1145 @@
+ID,Items,Stackability,Survival Obtainable,Peaceful Obtainable,Hunger,Saturation,Effect When Eaten,Is Weapon,Attack Speed,Attack Damage,Damage Per Second,Breaking Speed,Cooldown (in seconds),Smeltable,Fuel Duration,Renewable
+stone,Stone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+granite,Granite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_granite,Polished Granite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diorite,Diorite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_diorite,Polished Diorite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+andesite,Andesite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_andesite,Polished Andesite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+deepslate,Deepslate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+cobbled_deepslate,Cobbled Deepslate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,No
+polished_deepslate,Polished Deepslate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+calcite,Calcite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tuff,Tuff,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dripstone_block,Dripstone Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+grass_block,Grass Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dirt,Dirt,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+coarse_dirt,Coarse Dirt,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+podzol,Podzol,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+rooted_dirt,Rooted Dirt,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mud,Mud,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+crimson_nylium,Crimson Nylium,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+warped_nylium,Warped Nylium,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+cobblestone,Cobblestone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+oak_planks,Oak Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+spruce_planks,Spruce Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+birch_planks,Birch Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+jungle_planks,Jungle Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+acacia_planks,Acacia Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dark_oak_planks,Dark Oak Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mangrove_planks,Mangrove Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crimson_planks,Crimson Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_planks,Warped Planks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_sapling,Oak Sapling,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+spruce_sapling,Spruce Sapling,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+birch_sapling,Birch Sapling,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+jungle_sapling,Jungle Sapling,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+acacia_sapling,Acacia Sapling,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+dark_oak_sapling,Dark Oak Sapling,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+mangrove_propagule,Mangrove Propagule,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+sand,Sand,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+red_sand,Red Sand,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+gravel,Gravel,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+coal_ore,Coal Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_coal_ore,Deepslate Coal Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+iron_ore,Iron Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_iron_ore,Deepslate Iron Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+copper_ore,Copper Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_copper_ore,Deepslate Copper Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+gold_ore,Gold Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_gold_ore,Deepslate Gold Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+redstone_ore,Redstone Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_redstone_ore,Deepslate Redstone Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+emerald_ore,Emerald Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_emerald_ore,Deepslate Emerald Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+lapis_ore,Lapis Lazuli Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_lapis_ore,Deepslate Lapis Lazuli Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+diamond_ore,Diamond Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+deepslate_diamond_ore,Deepslate Diamond Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+nether_gold_ore,Nether Gold Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+nether_quartz_ore,Nether Quartz Ore,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+ancient_debris,Ancient Debris,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+coal_block,Block of Coal,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,800,Yes
+raw_iron_block,Block of Raw Iron,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+raw_copper_block,Block of Raw Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+raw_gold_block,Block of Raw Gold,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+amethyst_block,Block of Amethyst,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+iron_block,Block of Iron,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+copper_block,Block of Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gold_block,Block of Gold,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diamond_block,Block of Diamond,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+netherite_block,Block of Netherite,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+exposed_copper,Exposed Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+weathered_copper,Weathered Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oxidized_copper,Oxidized Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_copper,Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+exposed_cut_copper,Exposed Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+weathered_cut_copper,Weathered Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oxidized_cut_copper,Oxidized Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_copper_stairs,Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+exposed_cut_copper_stairs,Exposed Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+weathered_cut_copper_stairs,Weathered Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oxidized_cut_copper_stairs,Oxidized Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_copper_slab,Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+exposed_cut_copper_slab,Exposed Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+weathered_cut_copper_slab,Weathered Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oxidized_cut_copper_slab,Oxidized Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_copper_block,Waxed Block of Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_exposed_copper,Waxed Exposed Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_weathered_copper,Waxed Weathered Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_oxidized_copper,Waxed Oxidized Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_cut_copper,Waxed Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_exposed_cut_copper,Waxed Exposed Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_weathered_cut_copper,Waxed Weathered Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_oxidized_cut_copper,Waxed Oxidized Cut Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_cut_copper_stairs,Waxed Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_exposed_cut_copper_stairs,Waxed Exposed Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_weathered_cut_copper_stairs,Waxed Weathered Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_oxidized_cut_copper_stairs,Waxed Oxidized Cut Copper Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_cut_copper_slab,Waxed Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_exposed_cut_copper_slab,Waxed Exposed Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_weathered_cut_copper_slab,Waxed Weathered Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+waxed_oxidized_cut_copper_slab,Waxed Oxidized Cut Copper Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_log,Oak Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+spruce_log,Spruce Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+birch_log,Birch Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+jungle_log,Jungle Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+acacia_log,Acacia Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+dark_oak_log,Dark Oak Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+mangrove_log,Mangrove Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+mangrove_roots,Mangrove Roots,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+muddy_mangrove_roots,Muddy Mangrove Roots,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+crimson_stem,Crimson Stem,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_stem,Warped Stem,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stripped_oak_log,Stripped Oak Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_spruce_log,Stripped Spruce Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_birch_log,Stripped Birch Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_jungle_log,Stripped Jungle Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_acacia_log,Stripped Acacia Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_dark_oak_log,Stripped Dark Oak Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_mangrove_log,Stripped Mangrove Log,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_crimson_stem,Stripped Crimson Stem,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stripped_warped_stem,Stripped Warped Stem,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stripped_oak_wood,Stripped Oak Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_spruce_wood,Stripped Spruce Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_birch_wood,Stripped Birch Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_jungle_wood,Stripped Jungle Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_acacia_wood,Stripped Acacia Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_dark_oak_wood,Stripped Dark Oak Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_mangrove_wood,Stripped Mangrove Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+stripped_crimson_hyphae,Stripped Crimson Hyphae,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stripped_warped_hyphae,Stripped Warped Hyphae,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_wood,Oak Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+spruce_wood,Spruce Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+birch_wood,Birch Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+jungle_wood,Jungle Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+acacia_wood,Acacia Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+dark_oak_wood,Dark Oak Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+mangrove_wood,Mangrove Wood,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,15,Yes
+crimson_hyphae,Crimson Hyphae,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_hyphae,Warped Hyphae,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_leaves,Oak Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+spruce_leaves,Spruce Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+birch_leaves,Birch Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+jungle_leaves,Jungle Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+acacia_leaves,Acacia Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dark_oak_leaves,Dark Oak Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mangrove_leaves,Mangrove Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+azalea_leaves,Azalea Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+flowering_azalea_leaves,Flowering Azalea Leaves,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sponge,Sponge,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+wet_sponge,Wet Sponge,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,No
+glass,Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tinted_glass,Tinted Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lapis_block,Block of Lapis Lazuli,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sandstone,Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+chiseled_sandstone,Chiseled Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_sandstone,Cut Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cobweb,Cobweb,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+grass,Grass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+fern,Fern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+azalea,Azalea,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+flowering_azalea,Flowering Azalea,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_bush,Dead Bush,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+seagrass,Seagrass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sea_pickle,Sea Pickle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+white_wool,White Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+orange_wool,Orange Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+magenta_wool,Magenta Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+light_blue_wool,Light Blue Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+yellow_wool,Yellow Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+lime_wool,Lime Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+pink_wool,Pink Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+gray_wool,Gray Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+light_gray_wool,Light Gray Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+cyan_wool,Cyan Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+purple_wool,Purple Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+blue_wool,Blue Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+brown_wool,Brown Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+green_wool,Green Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+red_wool,Red Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+black_wool,Black Wool,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dandelion,Dandelion,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+poppy,Poppy,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_orchid,Blue Orchid,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+allium,Allium,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+azure_bluet,Azure Bluet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_tulip,Red Tulip,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_tulip,Orange Tulip,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_tulip,White Tulip,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_tulip,Pink Tulip,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oxeye_daisy,Oxeye Daisy,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cornflower,Cornflower,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lily_of_the_valley,Lily of the Valley,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+wither_rose,Wither Rose,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+spore_blossom,Spore Blossom,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+brown_mushroom,Brown Mushroom,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_mushroom,Red Mushroom,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+crimson_fungus,Crimson Fungus,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_fungus,Warped Fungus,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+crimson_roots,Crimson Roots,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_roots,Warped Roots,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_sprouts,Nether Sprouts,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+weeping_vines,Weeping Vines,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+twisting_vines,Twisting Vines,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sugar_cane,Sugar Cane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+kelp,Kelp,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Smoker,,Yes
+moss_carpet,Moss Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+moss_block,Moss Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+hanging_roots,Hanging Roots,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+big_dripleaf,Big Dripleaf,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+small_dripleaf,Small Dripleaf,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bamboo,Bamboo,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,2,Yes
+oak_slab,Oak Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+spruce_slab,Spruce Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+birch_slab,Birch Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+jungle_slab,Jungle Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+acacia_slab,Acacia Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+dark_oak_slab,Dark Oak Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+mangrove_slab,Mangrove Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,7,Yes
+crimson_slab,Crimson Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_slab,Warped Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_slab,Stone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_stone_slab,Smooth Stone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sandstone_slab,Sandstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_sandstone_slab,Cut Sandstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cobblestone_slab,Cobblestone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brick_slab,Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_brick_slab,Stone Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mud_brick_slab,Mud Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_brick_slab,Nether Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+quartz_slab,Quartz Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_sandstone_slab,Red Sandstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_red_sandstone_slab,Cut Red Sandstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purpur_slab,Purpur Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_slab,Prismarine Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_brick_slab,Prismarine Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dark_prismarine_slab,Dark Prismarine Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_quartz,Smooth Quartz Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_red_sandstone,Smooth Red Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_sandstone,Smooth Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_stone,Smooth Stone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bricks,Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bookshelf,Bookshelf,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mossy_cobblestone,Mossy Cobblestone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+obsidian,Obsidian,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+torch,Torch,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+end_rod,End Rod,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chorus_flower,Chorus Flower,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purpur_block,Purpur Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purpur_pillar,Purpur Pillar,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purpur_stairs,Purpur Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chest,Chest,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crafting_table,Crafting Table,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+furnace,Furnace,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+ladder,Ladder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+cobblestone_stairs,Cobblestone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+snow,Snow,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+ice,Ice,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+snow_block,Snow Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cactus,Cactus,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+clay,Clay,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+jukebox,Jukebox,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,No
+oak_fence,Oak Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+spruce_fence,Spruce Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+birch_fence,Birch Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+jungle_fence,Jungle Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+acacia_fence,Acacia Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dark_oak_fence,Dark Oak Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mangrove_fence,Mangrove Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crimson_fence,Crimson Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_fence,Warped Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pumpkin,Pumpkin,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+carved_pumpkin,Carved Pumpkin,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+jack_o_lantern,Jack o'Lantern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+netherrack,Netherrack,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+soul_sand,Soul Sand,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+soul_soil,Soul Soil,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+basalt,Basalt,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+polished_basalt,Polished Basalt,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_basalt,Smooth Basalt,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+soul_torch,Soul Torch,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glowstone,Glowstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_bricks,Stone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+mossy_stone_bricks,Mossy Stone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cracked_stone_bricks,Cracked Stone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chiseled_stone_bricks,Chiseled Stone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+packed_mud,Packed Mud,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mud_bricks,Mud Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+deepslate_bricks,Deepslate Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,No
+cracked_deepslate_bricks,Cracked Deepslate Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_tiles,Deepslate Tiles,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,No
+cracked_deepslate_tiles,Cracked Deepslate Tiles,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+chiseled_deepslate,Chiseled Deepslate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+brown_mushroom_block,Brown Mushroom Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_mushroom_block,Red Mushroom Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mushroom_stem,Mushroom Stem,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+iron_bars,Iron Bars,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chain,Chain,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glass_pane,Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+melon,Melon,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+vine,Vines,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glow_lichen,Glow Lichen,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brick_stairs,Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_brick_stairs,Stone Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mud_brick_stairs,Mud Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mycelium,Mycelium,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lily_pad,Lily Pad,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_bricks,Nether Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+cracked_nether_bricks,Cracked Nether Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chiseled_nether_bricks,Chiseled Nether Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_brick_fence,Nether Brick Fence,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_brick_stairs,Nether Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sculk,Sculk,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sculk_vein,Sculk Vein,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sculk_catalyst,Sculk Catalyst,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sculk_shrieker,Sculk Shrieker,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+enchanting_table,Enchanting Table,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+end_stone,End Stone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+end_stone_bricks,End Stone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dragon_egg,Dragon Egg,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sandstone_stairs,Sandstone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+ender_chest,Ender Chest,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+emerald_block,Block of Emerald,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_stairs,Oak Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+spruce_stairs,Spruce Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+birch_stairs,Birch Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+jungle_stairs,Jungle Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+acacia_stairs,Acacia Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dark_oak_stairs,Dark Oak Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mangrove_stairs,Mangrove Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crimson_stairs,Crimson Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_stairs,Warped Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+beacon,Beacon,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cobblestone_wall,Cobblestone Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mossy_cobblestone_wall,Mossy Cobblestone Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brick_wall,Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_wall,Prismarine Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_sandstone_wall,Red Sandstone Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mossy_stone_brick_wall,Mossy Stone Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+granite_wall,Granite Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_brick_wall,Stone Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mud_brick_wall,Mud Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_brick_wall,Nether Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+andesite_wall,Andesite Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_nether_brick_wall,Red Nether Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sandstone_wall,Sandstone Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+end_stone_brick_wall,End Stone Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diorite_wall,Diorite Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blackstone_wall,Blackstone Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_wall,Polished Blackstone Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_brick_wall,Polished Blackstone Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cobbled_deepslate_wall,Cobbled Deepslate Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+polished_deepslate_wall,Polished Deepslate Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_brick_wall,Deepslate Brick Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_tile_wall,Deepslate Tile Wall,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+anvil,Anvil,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chipped_anvil,Chipped Anvil,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+damaged_anvil,Damaged Anvil,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chiseled_quartz_block,Chiseled Quartz Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+quartz_block,Block of Quartz,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+quartz_bricks,Quartz Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+quartz_pillar,Quartz Pillar,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+quartz_stairs,Quartz Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_terracotta,White Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+orange_terracotta,Orange Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+magenta_terracotta,Magenta Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+light_blue_terracotta,Light Blue Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+yellow_terracotta,Yellow Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+lime_terracotta,Lime Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+pink_terracotta,Pink Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+gray_terracotta,Gray Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+light_gray_terracotta,Light Gray Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+cyan_terracotta,Cyan Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+purple_terracotta,Purple Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+blue_terracotta,Blue Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+brown_terracotta,Brown Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+green_terracotta,Green Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+red_terracotta,Red Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+black_terracotta,Black Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+hay_block,Hay Bale,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_carpet,White Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+orange_carpet,Orange Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+magenta_carpet,Magenta Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+light_blue_carpet,Light Blue Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+yellow_carpet,Yellow Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+lime_carpet,Lime Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+pink_carpet,Pink Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+gray_carpet,Gray Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+light_gray_carpet,Light Gray Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+cyan_carpet,Cyan Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+purple_carpet,Purple Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+blue_carpet,Blue Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+brown_carpet,Brown Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+green_carpet,Green Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+red_carpet,Red Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+black_carpet,Black Carpet,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+terracotta,Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+packed_ice,Packed Ice,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sunflower,Sunflower,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lilac,Lilac,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+rose_bush,Rose Bush,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+peony,Peony,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tall_grass,Tall Grass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+large_fern,Large Fern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+white_stained_glass,White Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_stained_glass,Orange Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_stained_glass,Magenta Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_stained_glass,Light Blue Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_stained_glass,Yellow Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_stained_glass,Lime Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_stained_glass,Pink Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_stained_glass,Gray Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_stained_glass,Light Gray Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_stained_glass,Cyan Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_stained_glass,Purple Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_stained_glass,Blue Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_stained_glass,Brown Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_stained_glass,Green Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_stained_glass,Red Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_stained_glass,Black Stained Glass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_stained_glass_pane,White Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_stained_glass_pane,Orange Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_stained_glass_pane,Magenta Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_stained_glass_pane,Light Blue Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_stained_glass_pane,Yellow Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_stained_glass_pane,Lime Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_stained_glass_pane,Pink Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_stained_glass_pane,Gray Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_stained_glass_pane,Light Gray Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_stained_glass_pane,Cyan Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_stained_glass_pane,Purple Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_stained_glass_pane,Blue Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_stained_glass_pane,Brown Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_stained_glass_pane,Green Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_stained_glass_pane,Red Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_stained_glass_pane,Black Stained Glass Pane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine,Prismarine,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_bricks,Prismarine Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dark_prismarine,Dark Prismarine,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_stairs,Prismarine Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_brick_stairs,Prismarine Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dark_prismarine_stairs,Dark Prismarine Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sea_lantern,Sea Lantern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_sandstone,Red Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+chiseled_red_sandstone,Chiseled Red Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cut_red_sandstone,Cut Red Sandstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_sandstone_stairs,Red Sandstone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magma_block,Magma Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_wart_block,Nether Wart Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_wart_block,Warped Wart Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_nether_bricks,Red Nether Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bone_block,Bone Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+shulker_box,Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_shulker_box,White Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_shulker_box,Orange Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_shulker_box,Magenta Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_shulker_box,Light Blue Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_shulker_box,Yellow Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_shulker_box,Lime Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_shulker_box,Pink Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_shulker_box,Gray Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_shulker_box,Light Gray Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_shulker_box,Cyan Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_shulker_box,Purple Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_shulker_box,Blue Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_shulker_box,Brown Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_shulker_box,Green Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_shulker_box,Red Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_shulker_box,Black Shulker Box,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_glazed_terracotta,White Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_glazed_terracotta,Orange Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_glazed_terracotta,Magenta Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_glazed_terracotta,Light Blue Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_glazed_terracotta,Yellow Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_glazed_terracotta,Lime Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_glazed_terracotta,Pink Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_glazed_terracotta,Gray Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_glazed_terracotta,Light Gray Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_glazed_terracotta,Cyan Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_glazed_terracotta,Purple Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_glazed_terracotta,Blue Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_glazed_terracotta,Brown Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_glazed_terracotta,Green Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_glazed_terracotta,Red Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_glazed_terracotta,Black Glazed Terracotta,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_concrete,White Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_concrete,Orange Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_concrete,Magenta Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_concrete,Light Blue Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_concrete,Yellow Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_concrete,Lime Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_concrete,Pink Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_concrete,Gray Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_concrete,Light Gray Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_concrete,Cyan Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_concrete,Purple Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_concrete,Blue Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_concrete,Brown Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_concrete,Green Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_concrete,Red Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_concrete,Black Concrete,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_concrete_powder,White Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_concrete_powder,Orange Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_concrete_powder,Magenta Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_concrete_powder,Light Blue Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_concrete_powder,Yellow Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_concrete_powder,Lime Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_concrete_powder,Pink Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_concrete_powder,Gray Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_concrete_powder,Light Gray Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_concrete_powder,Cyan Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_concrete_powder,Purple Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_concrete_powder,Blue Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_concrete_powder,Brown Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_concrete_powder,Green Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_concrete_powder,Red Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_concrete_powder,Black Concrete Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+turtle_egg,Turtle Egg,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_tube_coral_block,Dead Tube Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_brain_coral_block,Dead Brain Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_bubble_coral_block,Dead Bubble Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_fire_coral_block,Dead Fire Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_horn_coral_block,Dead Horn Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tube_coral_block,Tube Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brain_coral_block,Brain Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bubble_coral_block,Bubble Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+fire_coral_block,Fire Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+horn_coral_block,Horn Coral Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tube_coral,Tube Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brain_coral,Brain Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bubble_coral,Bubble Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+fire_coral,Fire Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+horn_coral,Horn Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_brain_coral,Dead Brain Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_bubble_coral,Dead Bubble Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_fire_coral,Dead Fire Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_horn_coral,Dead Horn Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_tube_coral,Dead Tube Coral,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tube_coral_fan,Tube Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brain_coral_fan,Brain Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bubble_coral_fan,Bubble Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+fire_coral_fan,Fire Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+horn_coral_fan,Horn Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_tube_coral_fan,Dead Tube Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_brain_coral_fan,Dead Brain Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_bubble_coral_fan,Dead Bubble Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_fire_coral_fan,Dead Fire Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dead_horn_coral_fan,Dead Horn Coral Fan,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_ice,Blue Ice,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+conduit,Conduit,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_granite_stairs,Polished Granite Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_red_sandstone_stairs,Smooth Red Sandstone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mossy_stone_brick_stairs,Mossy Stone Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_diorite_stairs,Polished Diorite Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mossy_cobblestone_stairs,Mossy Cobblestone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+end_stone_brick_stairs,End Stone Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_stairs,Stone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_sandstone_stairs,Smooth Sandstone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_quartz_stairs,Smooth Quartz Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+granite_stairs,Granite Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+andesite_stairs,Andesite Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_nether_brick_stairs,Red Nether Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_andesite_stairs,Polished Andesite Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diorite_stairs,Diorite Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cobbled_deepslate_stairs,Cobbled Deepslate Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+polished_deepslate_stairs,Polished Deepslate Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_brick_stairs,Deepslate Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_tile_stairs,Deepslate Tile Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+polished_granite_slab,Polished Granite Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_red_sandstone_slab,Smooth Red Sandstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mossy_stone_brick_slab,Mossy Stone Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_diorite_slab,Polished Diorite Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mossy_cobblestone_slab,Mossy Cobblestone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+end_stone_brick_slab,End Stone Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_sandstone_slab,Smooth Sandstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smooth_quartz_slab,Smooth Quartz Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+granite_slab,Granite Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+andesite_slab,Andesite Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_nether_brick_slab,Red Nether Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_andesite_slab,Polished Andesite Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diorite_slab,Diorite Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cobbled_deepslate_slab,Cobbled Deepslate Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+polished_deepslate_slab,Polished Deepslate Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_brick_slab,Deepslate Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+deepslate_tile_slab,Deepslate Tile Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+scaffolding,Scaffolding,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,2,Yes
+redstone,Redstone Dust,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+redstone_torch,Redstone Torch,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+redstone_block,Block of Redstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+repeater,Redstone Repeater,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+comparator,Redstone Comparator,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+piston,Piston,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sticky_piston,Sticky Piston,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+slime_block,Slime Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+honey_block,Honey Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+observer,Observer,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+hopper,Hopper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dispenser,Dispenser,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dropper,Dropper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lectern,Lectern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+target,Target,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lever,Lever,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lightning_rod,Lightning Rod,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+daylight_detector,Daylight Detector,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+sculk_sensor,Sculk Sensor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tripwire_hook,Tripwire Hook,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+trapped_chest,Trapped Chest,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+tnt,TNT,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+redstone_lamp,Redstone Lamp,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+note_block,Note Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+stone_button,Stone Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_button,Polished Blackstone Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_button,Oak Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+spruce_button,Spruce Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+birch_button,Birch Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+jungle_button,Jungle Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+acacia_button,Acacia Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+dark_oak_button,Dark Oak Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+mangrove_button,Mangrove Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+crimson_button,Crimson Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_button,Warped Button,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+stone_pressure_plate,Stone Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_pressure_plate,Polished Blackstone Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_weighted_pressure_plate,Light Weighted Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+heavy_weighted_pressure_plate,Heavy Weighted Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_pressure_plate,Oak Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+spruce_pressure_plate,Spruce Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+birch_pressure_plate,Birch Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+jungle_pressure_plate,Jungle Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+acacia_pressure_plate,Acacia Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dark_oak_pressure_plate,Dark Oak Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mangrove_pressure_plate,Mangrove Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crimson_pressure_plate,Crimson Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_pressure_plate,Warped Pressure Plate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+iron_door,Iron Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_door,Oak Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+spruce_door,Spruce Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+birch_door,Birch Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+jungle_door,Jungle Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+acacia_door,Acacia Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+dark_oak_door,Dark Oak Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+mangrove_door,Mangrove Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+crimson_door,Crimson Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_door,Warped Door,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+iron_trapdoor,Iron Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_trapdoor,Oak Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+spruce_trapdoor,Spruce Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+birch_trapdoor,Birch Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+jungle_trapdoor,Jungle Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+acacia_trapdoor,Acacia Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dark_oak_trapdoor,Dark Oak Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mangrove_trapdoor,Mangrove Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crimson_trapdoor,Crimson Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_trapdoor,Warped Trapdoor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+oak_fence_gate,Oak Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+spruce_fence_gate,Spruce Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+birch_fence_gate,Birch Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+jungle_fence_gate,Jungle Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+acacia_fence_gate,Acacia Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+dark_oak_fence_gate,Dark Oak Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+mangrove_fence_gate,Mangrove Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+crimson_fence_gate,Crimson Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_fence_gate,Warped Fence Gate,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+powered_rail,Powered Rail,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+detector_rail,Detector Rail,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+rail,Rail,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+activator_rail,Activator Rail,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+saddle,Saddle,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+minecart,Minecart,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chest_minecart,Minecart with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+furnace_minecart,Minecart with Furnace,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tnt_minecart,Minecart with TNT,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+hopper_minecart,Minecart with Hopper,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+carrot_on_a_stick,Carrot on a Stick,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_fungus_on_a_stick,Warped Fungus on a Stick,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+elytra,Elytra,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+oak_boat,Oak Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+oak_chest_boat,Oak Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+spruce_boat,Spruce Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+spruce_chest_boat,Spruce Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+birch_boat,Birch Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+birch_chest_boat,Birch Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+jungle_boat,Jungle Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+jungle_chest_boat,Jungle Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+acacia_boat,Acacia Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+acacia_chest_boat,Acacia Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+dark_oak_boat,Dark Oak Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+dark_oak_chest_boat,Dark Oak Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+mangrove_boat,Mangrove Boat,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+mangrove_chest_boat,Mangrove Boat with Chest,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,60,Yes
+turtle_helmet,Turtle Shell,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+scute,Scute,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+flint_and_steel,Flint and Steel,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+apple,Apple,64,Yes,Yes,4,2.4,None,No,4,1,4,1,,No,,Yes
+bow,Bow,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+arrow,Arrow,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+coal,Coal,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,80,Yes
+charcoal,Charcoal,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,80,Yes
+diamond,Diamond,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+emerald,Emerald,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lapis_lazuli,Lapis Lazuli,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+quartz,Nether Quartz,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+amethyst_shard,Amethyst Shard,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+raw_iron,Raw Iron,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+iron_ingot,Iron Ingot,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+raw_copper,Raw Copper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+copper_ingot,Copper Ingot,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+raw_gold,Raw Gold,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+gold_ingot,Gold Ingot,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+netherite_ingot,Netherite Ingot,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+netherite_scrap,Netherite Scrap,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+wooden_sword,Wooden Sword,1,Yes,Yes,,,Inedible,Yes,1.6,4,6.4,1.5,0.625,No,10,Yes
+wooden_shovel,Wooden Shovel,1,Yes,Yes,,,Inedible,Yes,1,2.5,2.5,2,1,No,10,Yes
+wooden_pickaxe,Wooden Pickaxe,1,Yes,Yes,,,Inedible,Yes,1.2,2,2.4,2,0.833,No,10,Yes
+wooden_axe,Wooden Axe,1,Yes,Yes,,,Inedible,Yes,0.8,7,5.6,2,1.25,No,10,Yes
+wooden_hoe,Wooden Hoe,1,Yes,Yes,,,Inedible,Yes,1,1,1,2,1,No,10,Yes
+stone_sword,Stone Sword,1,Yes,Yes,,,Inedible,Yes,1.6,5,8,1.5,0.625,No,,Yes
+stone_shovel,Stone Shovel,1,Yes,Yes,,,Inedible,Yes,1,3.5,3.5,4,1,No,,Yes
+stone_pickaxe,Stone Pickaxe,1,Yes,Yes,,,Inedible,Yes,1.2,3,3.6,4,0.833,No,,Yes
+stone_axe,Stone Axe,1,Yes,Yes,,,Inedible,Yes,0.8,9,7.2,4,1.25,No,,Yes
+stone_hoe,Stone Hoe,1,Yes,Yes,,,Inedible,Yes,2,1,2,4,0.5,No,,Yes
+golden_sword,Golden Sword,1,Yes,Yes,,,Inedible,Yes,1.6,4,6.4,1.5,0.625,With Blast Furnace,,Yes
+golden_shovel,Golden Shovel,1,Yes,Yes,,,Inedible,Yes,1,2.5,2.5,12,1,With Blast Furnace,,Yes
+golden_pickaxe,Golden Pickaxe,1,Yes,Yes,,,Inedible,Yes,1.2,2,2.4,12,0.833,With Blast Furnace,,Yes
+golden_axe,Golden Axe,1,Yes,Yes,,,Inedible,Yes,1,7,7,12,1,With Blast Furnace,,Yes
+golden_hoe,Golden Hoe,1,Yes,Yes,,,Inedible,Yes,1,1,1,12,1,With Blast Furnace,,Yes
+iron_sword,Iron Sword,1,Yes,Yes,,,Inedible,Yes,1.6,6,9.6,1.5,0.625,With Blast Furnace,,Yes
+iron_shovel,Iron Shovel,1,Yes,Yes,,,Inedible,Yes,1,4.5,4.5,6,1,With Blast Furnace,,Yes
+iron_pickaxe,Iron Pickaxe,1,Yes,Yes,,,Inedible,Yes,1.2,4,4.8,6,0.833,With Blast Furnace,,Yes
+iron_axe,Iron Axe,1,Yes,Yes,,,Inedible,Yes,0.9,9,8.1,6,1.111,With Blast Furnace,,Yes
+iron_hoe,Iron Hoe,1,Yes,Yes,,,Inedible,Yes,3,1,3,6,0.333,With Blast Furnace,,Yes
+diamond_sword,Diamond Sword,1,Yes,Yes,,,Inedible,Yes,1.6,7,11.2,1.5,0.625,No,,Yes
+diamond_shovel,Diamond Shovel,1,Yes,Yes,,,Inedible,Yes,1,5.5,5.5,8,1,No,,Yes
+diamond_pickaxe,Diamond Pickaxe,1,Yes,Yes,,,Inedible,Yes,1.2,5,6,8,0.833,No,,Yes
+diamond_axe,Diamond Axe,1,Yes,Yes,,,Inedible,Yes,1,9,9,8,1,No,,Yes
+diamond_hoe,Diamond Hoe,1,Yes,Yes,,,Inedible,Yes,4,1,4,8,0.25,No,,Yes
+netherite_sword,Netherite Sword,1,Yes,Yes,,,Inedible,Yes,1.6,8,12.8,1.5,0.625,No,,No
+netherite_shovel,Netherite Shovel,1,Yes,Yes,,,Inedible,Yes,1,6.5,6.5,9,1,No,,No
+netherite_pickaxe,Netherite Pickaxe,1,Yes,Yes,,,Inedible,Yes,1.2,6,7.2,9,0.833,No,,No
+netherite_axe,Netherite Axe,1,Yes,Yes,,,Inedible,Yes,1,10,10,9,1,No,,No
+netherite_hoe,Netherite Hoe,1,Yes,Yes,,,Inedible,Yes,4,1,4,9,0.25,No,,No
+stick,Stick,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+bowl,Bowl,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,5,Yes
+mushroom_stew,Mushroom Stew,1,Yes,Yes,6,7.2,None,No,4,1,4,1,,No,,Yes
+string,String,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+feather,Feather,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gunpowder,Gunpowder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+wheat_seeds,Wheat Seeds,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+wheat,Wheat,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bread,Bread,64,Yes,Yes,5,6,None,No,4,1,4,1,,No,,Yes
+leather_helmet,Leather Cap,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+leather_chestplate,Leather Tunic,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+leather_leggings,Leather Pants,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+leather_boots,Leather Boots,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chainmail_helmet,Chainmail Helmet,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+chainmail_chestplate,Chainmail Chestplate,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+chainmail_leggings,Chainmail Leggings,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+chainmail_boots,Chainmail Boots,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+iron_helmet,Iron Helmet,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+iron_chestplate,Iron Chestplate,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+iron_leggings,Iron Leggings,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+iron_boots,Iron Boots,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+diamond_helmet,Diamond Helmet,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diamond_chestplate,Diamond Chestplate,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diamond_leggings,Diamond Leggings,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+diamond_boots,Diamond Boots,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+golden_helmet,Golden Helmet,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+golden_chestplate,Golden Chestplate,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+golden_leggings,Golden Leggings,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+golden_boots,Golden Boots,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,Yes
+netherite_helmet,Netherite Helmet,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+netherite_chestplate,Netherite Chestplate,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+netherite_leggings,Netherite Leggings,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+netherite_boots,Netherite Boots,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+flint,Flint,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+porkchop,Raw Porkchop,64,Yes,Yes,3,1.8,None,No,4,1,4,1,,With Smoker,,Yes
+cooked_porkchop,Cooked Porkchop,64,Yes,Yes,8,12.8,None,No,4,1,4,1,,No,,Yes
+painting,Painting,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+golden_apple,Golden Apple,64,Yes,Yes,4,9.6,Regeneration II for 5 seconds or Absorption for 2 minutes,No,4,1,4,1,,No,,Yes
+enchanted_golden_apple,Enchanted Golden Apple,64,Yes,Yes,4,9.6,Regeneration II for 20 seconds and Absorption IV for 2 minutes and Resistance for 5 minutes and Fire Resistance for 5 minutes,No,4,1,4,1,,No,,No
+oak_sign,Oak Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+spruce_sign,Spruce Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+birch_sign,Birch Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+jungle_sign,Jungle Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+acacia_sign,Acacia Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+dark_oak_sign,Dark Oak Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+mangrove_sign,Mangrove Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,10,Yes
+crimson_sign,Crimson Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+warped_sign,Warped Sign,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bucket,Bucket,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+water_bucket,Water Bucket,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lava_bucket,Lava Bucket,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,1000,Yes
+powder_snow_bucket,Powder Snow Bucket,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+snowball,Snowball,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+leather,Leather,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+milk_bucket,Milk Bucket,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pufferfish_bucket,Bucket of Pufferfish,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+salmon_bucket,Bucket of Salmon,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cod_bucket,Bucket of Cod,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tropical_fish_bucket,Bucket of Tropical Fish,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+axolotl_bucket,Bucket of Axolotl,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+tadpole_bucket,Bucket of Tadpole,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brick,Brick,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+clay_ball,Clay Ball,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+dried_kelp_block,Dried Kelp Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,200,Yes
+paper,Paper,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+book,Book,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+slime_ball,Slimeball,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+egg,Egg,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+compass,Compass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+recovery_compass,Recovery Compass,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+fishing_rod,Fishing Rod,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+clock,Clock,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+spyglass,Spyglass,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glowstone_dust,Glowstone Dust,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cod,Raw Cod,64,Yes,Yes,2,0.4,None,No,4,1,4,1,,With Smoker,,Yes
+salmon,Raw Salmon,64,Yes,Yes,2,0.4,None,No,4,1,4,1,,With Smoker,,Yes
+tropical_fish,Tropical Fish,64,Yes,Yes,1,0.2,None,No,4,1,4,1,,No,,Yes
+pufferfish,Pufferfish,64,Yes,Yes,1,0.2,Hunger III for 15 seconds and Poison II for 60 seconds and Nausea for 15 seconds,No,4,1,4,1,,No,,Yes
+cooked_cod,Cooked Cod,64,Yes,Yes,5,6,None,No,4,1,4,1,,No,,Yes
+cooked_salmon,Cooked Salmon,64,Yes,Yes,6,9.6,None,No,4,1,4,1,,No,,Yes
+ink_sac,Ink Sac,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glow_ink_sac,Glow Ink Sac,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cocoa_beans,Cocoa Beans,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_dye,White Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_dye,Orange Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_dye,Magenta Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_dye,Light Blue Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_dye,Yellow Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_dye,Lime Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_dye,Pink Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_dye,Gray Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_dye,Light Gray Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_dye,Cyan Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_dye,Purple Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_dye,Blue Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_dye,Brown Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_dye,Green Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_dye,Red Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_dye,Black Dye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bone_meal,Bone Meal,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bone,Bone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sugar,Sugar,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cake,Cake,1,Yes,Yes,14,2.8,None,No,4,1,4,1,,No,,Yes
+white_bed,White Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_bed,Orange Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_bed,Magenta Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_bed,Light Blue Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_bed,Yellow Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_bed,Lime Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_bed,Pink Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_bed,Gray Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_bed,Light Gray Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_bed,Cyan Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_bed,Purple Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_bed,Blue Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_bed,Brown Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_bed,Green Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_bed,Red Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_bed,Black Bed,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cookie,Cookie,64,Yes,Yes,2,0.4,None,No,4,1,4,1,,No,,Yes
+filled_map,Map,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+shears,Shears,1,Yes,Yes,,,Inedible,No,4,1,4,5,,No,,Yes
+melon_slice,Melon Slice,64,Yes,Yes,2,1.2,None,No,4,1,4,1,,No,,Yes
+dried_kelp,Dried Kelp,64,Yes,Yes,1,0.6,None,No,4,1,4,1,,No,,Yes
+pumpkin_seeds,Pumpkin Seeds,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+melon_seeds,Melon Seeds,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+beef,Raw Beef,64,Yes,Yes,3,1.8,None,No,4,1,4,1,,With Smoker,,Yes
+cooked_beef,Steak,64,Yes,Yes,8,12.8,None,No,4,1,4,1,,No,,Yes
+chicken,Raw Chicken,64,Yes,Yes,2,1.2,Hunger for 30 seconds (30% chance),No,4,1,4,1,,With Smoker,,Yes
+cooked_chicken,Cooked Chicken,64,Yes,Yes,6,7.2,None,No,4,1,4,1,,No,,Yes
+rotten_flesh,Rotten Flesh,64,Yes,Yes,4,0.8,Hunger for 30 seconds (80% chance),No,4,1,4,1,,No,,Yes
+ender_pearl,Ender Pearl,16,Yes,Yes,,,Inedible,No,4,1,4,1,1,No,,Yes
+blaze_rod,Blaze Rod,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,120,Yes
+ghast_tear,Ghast Tear,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gold_nugget,Gold Nugget,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nether_wart,Nether Wart,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glass_bottle,Glass Bottle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+spider_eye,Spider Eye,64,Yes,Yes,2,3.2,Poison for 5 seconds,No,4,1,4,1,,No,,Yes
+fermented_spider_eye,Fermented Spider Eye,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blaze_powder,Blaze Powder,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magma_cream,Magma Cream,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brewing_stand,Brewing Stand,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cauldron,Cauldron,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+ender_eye,Eye of Ender,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glistering_melon_slice,Glistering Melon Slice,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+experience_bottle,Bottle o' Enchanting,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+fire_charge,Fire Charge,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+writable_book,Book and Quill,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+written_book,Written Book,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+item_frame,Item Frame,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+glow_item_frame,Glow Item Frame,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+flower_pot,Flower Pot,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+carrot,Carrot,64,Yes,Yes,3,3.6,None,No,4,1,4,1,,No,,Yes
+potato,Potato,64,Yes,Yes,1,0.6,None,No,4,1,4,1,,With Smoker,,Yes
+baked_potato,Baked Potato,64,Yes,Yes,5,6,None,No,4,1,4,1,,No,,Yes
+poisonous_potato,Poisonous Potato,64,Yes,Yes,2,1.2,Poison for 5 seconds (60% chance),No,4,1,4,1,,No,,Yes
+map,Empty Map,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+golden_carrot,Golden Carrot,64,Yes,Yes,6,14.4,None,No,4,1,4,1,,No,,Yes
+skeleton_skull,Skeleton Skull,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+wither_skeleton_skull,Wither Skeleton Skull,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+zombie_head,Zombie Head,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+creeper_head,Creeper Head,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+dragon_head,Dragon Head,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+nether_star,Nether Star,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pumpkin_pie,Pumpkin Pie,64,Yes,Yes,8,4.8,None,No,4,1,4,1,,No,,Yes
+firework_rocket,Firework Rocket,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+firework_star,Firework Star,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+enchanted_book,Enchanted Book,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,All except Swift Sneak
+nether_brick,Nether Brick,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_shard,Prismarine Shard,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+prismarine_crystals,Prismarine Crystals,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+rabbit,Raw Rabbit,64,Yes,Yes,3,1.8,None,No,4,1,4,1,,With Smoker,,Yes
+cooked_rabbit,Cooked Rabbit,64,Yes,Yes,5,6,None,No,4,1,4,1,,No,,Yes
+rabbit_stew,Rabbit Stew,1,Yes,Yes,10,12,None,No,4,1,4,1,,No,,Yes
+rabbit_foot,Rabbit's Foot,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+rabbit_hide,Rabbit Hide,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+armor_stand,Armor Stand,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+iron_horse_armor,Iron Horse Armor,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+golden_horse_armor,Golden Horse Armor,1,Yes,Yes,,,Inedible,No,4,1,4,1,,With Blast Furnace,,No
+diamond_horse_armor,Diamond Horse Armor,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+leather_horse_armor,Leather Horse Armor,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lead,Lead,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+name_tag,Name Tag,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mutton,Raw Mutton,64,Yes,Yes,2,1.2,None,No,4,1,4,1,,With Smoker,,Yes
+cooked_mutton,Cooked Mutton,64,Yes,Yes,6,9.6,None,No,4,1,4,1,,No,,Yes
+white_banner,White Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+orange_banner,Orange Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+magenta_banner,Magenta Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+light_blue_banner,Light Blue Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+yellow_banner,Yellow Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+lime_banner,Lime Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+pink_banner,Pink Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+gray_banner,Gray Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+light_gray_banner,Light Gray Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+cyan_banner,Cyan Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+purple_banner,Purple Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+blue_banner,Blue Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+brown_banner,Brown Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+green_banner,Green Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+red_banner,Red Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+black_banner,Black Banner,16,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+end_crystal,End Crystal,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chorus_fruit,Chorus Fruit,64,Yes,Yes,4,2.4,The player may be teleported randomly.,No,4,1,4,1,1,With Furnace Only,,Yes
+popped_chorus_fruit,Popped Chorus Fruit,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+beetroot,Beetroot,64,Yes,Yes,1,1.2,None,No,4,1,4,1,,No,,Yes
+beetroot_seeds,Beetroot Seeds,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+beetroot_soup,Beetroot Soup,1,Yes,Yes,6,7.2,None,No,4,1,4,1,,No,,Yes
+dragon_breath,Dragon's Breath,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+spectral_arrow,Spectral Arrow,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+shield,Shield,1,Yes,Yes,,,Inedible,No,4,1,4,1,5,No,,Yes
+totem_of_undying,Totem of Undying,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+shulker_shell,Shulker Shell,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+iron_nugget,Iron Nugget,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_13,13 Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_cat,Cat Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_blocks,Blocks Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_chirp,Chirp Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_far,Far Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_mall,Mall Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_mellohi,Mellohi Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_stal,Stal Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_strad,Strad Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_ward,Ward Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_11,11 Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_wait,Wait Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+music_disc_otherside,Otherside Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+music_disc_pigstep,Pigstep Disc,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+trident,Trident,1,Yes,Yes,,,Inedible,Yes,1.1,9,9.9,1,0.9,No,,Yes
+phantom_membrane,Phantom Membrane,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+nautilus_shell,Nautilus Shell,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+heart_of_the_sea,Heart of the Sea,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+crossbow,Crossbow,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+suspicious_stew,Suspicious Stew,1,Yes,Yes,6,7.2,Regeneration or Jump Boost or Poison or Wither or Weakness or Blindness or Fire Resistance or Saturation or Night Vision ( for 3-11 seconds),No,4,1,4,1,,No,,Yes
+loom,Loom,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+flower_banner_pattern,Flower Charge Banner Pattern,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+creeper_banner_pattern,Creeper Charge Banner Pattern,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+skull_banner_pattern,Skull Charge Banner Pattern,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+mojang_banner_pattern,Thing Banner Pattern,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+globe_banner_pattern,Globe Banner Pattern,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+piglin_banner_pattern,Snout Banner Pattern,1,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+composter,Composter,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+barrel,Barrel,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+smoker,Smoker,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blast_furnace,Blast Furnace,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cartography_table,Cartography Table,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+fletching_table,Fletching Table,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+grindstone,Grindstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+smithing_table,Smithing Table,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,15,Yes
+stonecutter,Stonecutter,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bell,Bell,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lantern,Lantern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+soul_lantern,Soul Lantern,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+sweet_berries,Sweet Berries,64,Yes,Yes,2,0.4,None,No,4,1,4,1,,No,,Yes
+glow_berries,Glow Berries,64,Yes,Yes,2,0.4,None,No,4,1,4,1,,No,,Yes
+campfire,Campfire,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+soul_campfire,Soul Campfire,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+shroomlight,Shroomlight,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+honeycomb,Honeycomb,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+bee_nest,Bee Nest,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+beehive,Beehive,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+honey_bottle,Honey Bottle,16,Yes,Yes,6,1.2,Clears Poison,No,4,1,4,1,,No,,Yes
+honeycomb_block,Honeycomb Block,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lodestone,Lodestone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+crying_obsidian,Crying Obsidian,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blackstone,Blackstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blackstone_slab,Blackstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blackstone_stairs,Blackstone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gilded_blackstone,Gilded Blackstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+polished_blackstone,Polished Blackstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_slab,Polished Blackstone Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_stairs,Polished Blackstone Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+chiseled_polished_blackstone,Chiseled Polished Blackstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_bricks,Polished Blackstone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,With Furnace Only,,Yes
+polished_blackstone_brick_slab,Polished Blackstone Brick Slab,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+polished_blackstone_brick_stairs,Polished Blackstone Brick Stairs,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cracked_polished_blackstone_bricks,Cracked Polished Blackstone Bricks,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+respawn_anchor,Respawn Anchor,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+candle,Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+white_candle,White Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+orange_candle,Orange Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+magenta_candle,Magenta Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_blue_candle,Light Blue Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+yellow_candle,Yellow Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+lime_candle,Lime Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pink_candle,Pink Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+gray_candle,Gray Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+light_gray_candle,Light Gray Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+cyan_candle,Cyan Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+purple_candle,Purple Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+blue_candle,Blue Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+brown_candle,Brown Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+green_candle,Green Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+red_candle,Red Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+black_candle,Black Candle,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+small_amethyst_bud,Small Amethyst Bud,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+medium_amethyst_bud,Medium Amethyst Bud,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+large_amethyst_bud,Large Amethyst Bud,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+amethyst_cluster,Amethyst Cluster,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pointed_dripstone,Pointed Dripstone,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+ochre_froglight,Ochre Froglight,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+verdant_froglight,Verdant Froglight,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+pearlescent_froglight,Pearlescent Froglight,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,Yes
+echo_shard,Echo Shard,64,Yes,Yes,,,Inedible,No,4,1,4,1,,No,,No
+bedrock,Bedrock,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+budding_amethyst,Budding Amethyst,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+petrified_oak_slab,Petrified Oak Slab,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+chorus_plant,Chorus Plant,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+spawner,Spawner,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+farmland,Farmland,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_stone,Infested Stone,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_cobblestone,Infested Cobblestone,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_stone_bricks,Infested Stone Bricks,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_mossy_stone_bricks,Infested Mossy Stone Bricks,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_cracked_stone_bricks,Infested Cracked Stone Bricks,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_chiseled_stone_bricks,Infested Chiseled Stone Bricks,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+infested_deepslate,Infested Deepslate,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+reinforced_deepslate,Reinforced Deepslate,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+end_portal_frame,End Portal Frame,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+command_block,Command Block,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+barrier,Barrier,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+light,Light,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+dirt_path,Dirt Path,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+repeating_command_block,Repeating Command Block,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+chain_command_block,Chain Command Block,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+structure_void,Structure Void,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+structure_block,Structure Block,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+jigsaw,Jigsaw Block,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+bundle,Bundle,1,No,No,,,Inedible,No,4,1,4,1,,No,,No
+allay_spawn_egg,Allay Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+axolotl_spawn_egg,Axolotl Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+bat_spawn_egg,Bat Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+bee_spawn_egg,Bee Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+blaze_spawn_egg,Blaze Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+cat_spawn_egg,Cat Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+cave_spider_spawn_egg,Cave Spider Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+chicken_spawn_egg,Chicken Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+cod_spawn_egg,Cod Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+cow_spawn_egg,Cow Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+creeper_spawn_egg,Creeper Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+dolphin_spawn_egg,Dolphin Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+donkey_spawn_egg,Donkey Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+drowned_spawn_egg,Drowned Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+elder_guardian_spawn_egg,Elder Guardian Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+enderman_spawn_egg,Enderman Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+endermite_spawn_egg,Endermite Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+evoker_spawn_egg,Evoker Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+fox_spawn_egg,Fox Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+frog_spawn_egg,Frog Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+ghast_spawn_egg,Ghast Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+glow_squid_spawn_egg,Glow Squid Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+goat_spawn_egg,Goat Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+guardian_spawn_egg,Guardian Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+hoglin_spawn_egg,Hoglin Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+horse_spawn_egg,Horse Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+husk_spawn_egg,Husk Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+llama_spawn_egg,Llama Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+magma_cube_spawn_egg,Magma Cube Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+mooshroom_spawn_egg,Mooshroom Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+mule_spawn_egg,Mule Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+ocelot_spawn_egg,Ocelot Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+panda_spawn_egg,Panda Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+parrot_spawn_egg,Parrot Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+phantom_spawn_egg,Phantom Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+pig_spawn_egg,Pig Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+piglin_spawn_egg,Piglin Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+piglin_brute_spawn_egg,Piglin Brute Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+pillager_spawn_egg,Pillager Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+polar_bear_spawn_egg,Polar Bear Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+pufferfish_spawn_egg,Pufferfish Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+rabbit_spawn_egg,Rabbit Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+ravager_spawn_egg,Ravager Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+salmon_spawn_egg,Salmon Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+sheep_spawn_egg,Sheep Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+shulker_spawn_egg,Shulker Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+silverfish_spawn_egg,Silverfish Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+skeleton_spawn_egg,Skeleton Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+skeleton_horse_spawn_egg,Skeleton Horse Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+slime_spawn_egg,Slime Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+spider_spawn_egg,Spider Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+squid_spawn_egg,Squid Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+stray_spawn_egg,Stray Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+strider_spawn_egg,Strider Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+tadpole_spawn_egg,Tadpole Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+trader_llama_spawn_egg,Trader Llama Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+tropical_fish_spawn_egg,Tropical Fish Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+turtle_spawn_egg,Turtle Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+vex_spawn_egg,Vex Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+villager_spawn_egg,Villager Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+vindicator_spawn_egg,Vindicator Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+wandering_trader_spawn_egg,Wandering Trader Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+warden_spawn_egg,Warden Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+witch_spawn_egg,Witch Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+wither_skeleton_spawn_egg,Wither Skeleton Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+wolf_spawn_egg,Wolf Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+zoglin_spawn_egg,Zoglin Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+zombie_spawn_egg,Zombie Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+zombie_horse_spawn_egg,Zombie Horse Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+zombie_villager_spawn_egg,Zombie Villager Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+zombified_piglin_spawn_egg,Zombified Piglin Spawn Egg,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+player_head,Player Head,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
+command_block_minecart,Minecart with Command Block,1,No,No,,,Inedible,No,4,1,4,1,,No,,No
+knowledge_book,Knowledge Book,1,No,No,,,Inedible,No,4,1,4,1,,No,,No
+debug_stick,Debug Stick,1,No,No,,,Inedible,No,4,1,4,1,,No,,No
+frogspawn,Frogspawn,64,No,No,,,Inedible,No,4,1,4,1,,No,,No
