@@ -29,23 +29,20 @@ db.all("SELECT * FROM blocklist", function (err, rows) {
       row.Is_Weapon +
       '{\n"Attack Speed":' +
       row.Attack_Speed +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      '{\n"ID":' +
-      row.ID +
-      ;
+      '{\n"Attack Damage":' +
+      row.Attack_Damage +
+      '{\n"Damage Per Second":' +
+      row.Damage_Per_Second +
+      '{\n"Breaking Speed":' +
+      row.Breaking_Speed +
+      '{\n"Cooldown (seconds)":' +
+      row.Cooldown_in_seconds +
+      '{\n"Smeltable":' +
+      row.Smeltable +
+      '{\n"Fuel Duration":' +
+      row.Fuel_Duration +
+      '{\n"Renewable":' +
+      row.Renewable;
     myCounter++;
     if (myCounter == rows.length) {
       myString = myString + '"\n}\n';
