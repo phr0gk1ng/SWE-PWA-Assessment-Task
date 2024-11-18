@@ -20,28 +20,28 @@ db.all("SELECT * FROM blocklist", function (err, rows) {
       '",\n"Peaceful Obtainable":"' +
       row.Peaceful_Obtainable +
       '",\n"Hunger":"' +
-      row.Hunger
-      '{\n"Saturation":' +
+      row.Hunger +
+      '",\n"Saturation":"' +
       row.Saturation +
-      '{\n"Effect when Eaten":' +
+      '",\n"Effect when Eaten":"' +
       row.Effect_when_eaten +
-      '{\n"Is Weapon":' +
+      '",\n"Is Weapon":"' +
       row.Is_Weapon +
-      '{\n"Attack Speed":' +
+      '",\n"Attack Speed":"' +
       row.Attack_Speed +
-      '{\n"Attack Damage":' +
+      '",\n"Attack Damage":"' +
       row.Attack_Damage +
-      '{\n"Damage Per Second":' +
+      '",\n"Damage Per Second":"' +
       row.Damage_Per_Second +
-      '{\n"Breaking Speed":' +
+      '",\n"Breaking Speed":"' +
       row.Breaking_Speed +
-      '{\n"Cooldown (seconds)":' +
+      '",\n"Cooldown (seconds)":"' +
       row.Cooldown_in_seconds +
-      '{\n"Smeltable":' +
+      '",\n"Smeltable":"' +
       row.Smeltable +
-      '{\n"Fuel Duration":' +
+      '",\n"Fuel Duration":"' +
       row.Fuel_Duration +
-      '{\n"Renewable":' +
+      '",\n"Renewable":"' +
       row.Renewable;
     myCounter++;
     if (myCounter == rows.length) {
