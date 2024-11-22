@@ -6,44 +6,45 @@ db.all("SELECT * FROM blocklist", function (err, rows) {
   let myCounter = 0;
   rows.forEach(function (row) {
     // for debugging
-    // console.log(row.extID + ": " + row.name + ": " + row.hyperlink + ": " + row.about + ": " + row.image + ": " + row.language);
+    // console.log(typeof row.ID + ": " + typeof row.Item_Name);
     myString =
       myString +
-      '{\n"ID":' +
+      '{\n"ID":"' + 
       row.ID +
-      ',\n"Item Name":"' +
+      '",\n"Item_Name":"' +
       row.Item_Name +
       '",\n"Stackability":"' +
       row.Stackability +
-      '",\n"Survival Obtainable":"' +
+      '",\n"Survival_Obtainable":"' +
       row.Survival_Obtainable +
-      '",\n"Peaceful Obtainable":"' +
+      '",\n"Peaceful_Obtainable":"' +
       row.Peaceful_Obtainable +
       '",\n"Hunger":"' +
       row.Hunger +
       '",\n"Saturation":"' +
       row.Saturation +
-      '",\n"Effect when Eaten":"' +
+      '",\n"Effect_when_Eaten":"' +
       row.Effect_when_eaten +
-      '",\n"Is Weapon":"' +
+      '",\n"Is_Weapon":"' +
       row.Is_Weapon +
-      '",\n"Attack Speed":"' +
+      '",\n"Attack_Speed":"' +
       row.Attack_Speed +
-      '",\n"Attack Damage":"' +
+      '",\n"Attack_Damage":"' +
       row.Attack_Damage +
-      '",\n"Damage Per Second":"' +
+      '",\n"Damage_Per_Second":"' +
       row.Damage_Per_Second +
-      '",\n"Breaking Speed":"' +
+      '",\n"Breaking_Speed":"' +
       row.Breaking_Speed +
-      '",\n"Cooldown (seconds)":"' +
+      '",\n"Cooldown_in_seconds)":"' +
       row.Cooldown_in_seconds +
       '",\n"Smeltable":"' +
       row.Smeltable +
-      '",\n"Fuel Duration":"' +
+      '",\n"Fuel_Duration":"' +
       row.Fuel_Duration +
       '",\n"Renewable":"' +
       row.Renewable;
     myCounter++;
+    // console.log(myString)
     if (myCounter == rows.length) {
       myString = myString + '"\n}\n';
     } else {
